@@ -25,7 +25,7 @@ Welcome to my website! I am Gento Kato, a Political Science Ph.D. Student at Uni
 
 
  * **Information Search and Eye-Tracking** (In collaboration with Ling Liu)
-   * Working papers (in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/%E5%8A%89%E3%83%BB%E5%8A%A0%E8%97%A4%EF%BC%882015%EF%BC%89150228final.pdf" target="_blank">Japanese</a>; in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2016dovo_160609.pdf" target="_blank">English</a>) <br>
+   * Working papers (in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/%E5%8A%89%E3%83%BB%E5%8A%A0%E8%97%A4%EF%BC%882015%EF%BC%89150228final.pdf" target="_blank">日本語</a>; in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2016dovo_160609.pdf" target="_blank">English</a>) <br>
 
 
  * **Motivated Reasoning and Information Processing Network**
