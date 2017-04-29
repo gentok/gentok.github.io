@@ -8,11 +8,23 @@ Welcome to my website. I am Gento Kato, a Political Science Ph.D. Student at Uni
 
 ## Working Projects
 
-*In Progress*
+ * **Uninformed Voters Project**
+ * **Measures of Uncertainty and Knowledge** <br>
+
+
+ * **International News and Foreign Image**
+ * **Political Headlines Project** (In collaboration with Tzu-ping Liu)
+   * <a href="https://github.com/gentok/Political_Headlines_Project" target="_blank">GitHub Project Repository</a>
+
+
+ * **Information Search and Eye-Tracking** (In collaboration with Ling Liu)
+   * Working papers (in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2016dovo_160609.pdf" target="_blank">Japanese</a>; in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2016dovo_160609.pdf" target="_blank">English</a>)
+ * **Motivated Reasoning and Information Processing Network**
+
 
 ## Method Notes
 
-*In Progress*
+I share Jupyter notebook notes on quatitative methods and their execution codes (mosly in R) that I acquired from lectures and/or by myself. Note that there may be my misunderstandings or code bugs. Check more details from here (in progress).
 
 ## Resources
 
