@@ -9,28 +9,35 @@ Welcome to my website! I am Gento Kato, a Political Science Ph.D. Student at Uni
 ## Working Projects
 
  * **Uninformed Voters Project**
+
+
  * **Measures of Uncertainty and Knowledge**
    * <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2014pawi_150301_Final_fixed.pdf" target="_blank">Working paper</a> (my MA thesis)
 
 
- * **International News and Foreign Image**
+ * **International News and Foreign Perception**
    * <a href="https://github.com/gentok/Foreign_Image_News_Project" target="_blank">GitHub Project Repository</a>
+   * <a href="https://github.com/gentok/Foreign_Image_News_Project/blob/master/papers/Kato2015loor_160304.pdf" target="_blank">Working paper</a>
+
+
  * **Political Headlines Project** (In collaboration with Tzu-ping Liu)
    * <a href="https://github.com/gentok/Political_Headlines_Project" target="_blank">GitHub Project Repository</a>
 
 
  * **Information Search and Eye-Tracking** (In collaboration with Ling Liu)
-   * Working papers (in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/%E5%8A%89%E3%83%BB%E5%8A%A0%E8%97%A4%EF%BC%882015%EF%BC%89150228final.pdf" target="_blank">Japanese</a>; in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2016dovo_160609.pdf" target="_blank">English</a>)
+   * Working papers (in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/%E5%8A%89%E3%83%BB%E5%8A%A0%E8%97%A4%EF%BC%882015%EF%BC%89150228final.pdf" target="_blank">Japanese</a>; in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2016dovo_160609.pdf" target="_blank">English</a>) <br>
+
+
  * **Motivated Reasoning and Information Processing Network**
 
 
 ## Method Notes
 
-I share Jupyter notebook notes on quatitative methods and their execution codes (mosly in R) that I acquired from lectures and/or by myself. Note that there may be my misunderstandings or code bugs. Check more details from here (in progress).
+I share my notes on quatitative methods and their execution codes (mosly in R, but some in Python 2.7, Stata and SPSS) that I acquired from lectures and/or by myself. Note that there may be my misunderstandings or code bugs. Check more details from [here](https://github.com/gentok/Method_Notes).
 
 ## Resources
 
-*In Progress*
+ * [Japanese Public Opinion Datasets](https://gentok.github.io/datasets.html)
 
 ## Contacts/CV
 
