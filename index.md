@@ -1,6 +1,6 @@
 ## Introduction
 
-Welcome to my website. I am Gento Kato, a Political Science Ph.D. Student at University of California, Davis. I am originally from Kobe, the port city located in west Japan. I received my B.A. in Politics from International Christian University, Tokyo, Japan in 2012, and got my M.A. in Political Science from Waseda University, Tokyo, Japan in 2015. My specialties are Political Behavior, Political Psychology, and Japanese Politics, with particular interest in the role of information in voting and political decisions.
+Welcome to my website! I am Gento Kato, a Political Science Ph.D. Student at University of California, Davis. I am originally from Kobe, the port city located in west Japan. I received my B.A. in Politics from International Christian University, Tokyo, Japan in 2012, and got my M.A. in Political Science from Waseda University, Tokyo, Japan in 2015. My specialties are Political Behavior, Political Psychology, and Japanese Politics, with particular interest in the role of information in voting and political decisions.
 
 ## Publications
 
@@ -9,16 +9,18 @@ Welcome to my website. I am Gento Kato, a Political Science Ph.D. Student at Uni
 ## Working Projects
 
  * **Uninformed Voters Project**
- * **Measures of Uncertainty and Knowledge** <br>
+ * **Measures of Uncertainty and Knowledge**
+   * <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2014pawi_150301_Final_fixed.pdf" target="_blank">Working paper</a> (my MA thesis)
 
 
  * **International News and Foreign Image**
+   * <a href="https://github.com/gentok/Foreign_Image_News_Project" target="_blank">GitHub Project Repository</a>
  * **Political Headlines Project** (In collaboration with Tzu-ping Liu)
    * <a href="https://github.com/gentok/Political_Headlines_Project" target="_blank">GitHub Project Repository</a>
 
 
  * **Information Search and Eye-Tracking** (In collaboration with Ling Liu)
-   * Working papers (in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2016dovo_160609.pdf" target="_blank">Japanese</a>; in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2016dovo_160609.pdf" target="_blank">English</a>)
+   * Working papers (in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/%E5%8A%89%E3%83%BB%E5%8A%A0%E8%97%A4%EF%BC%882015%EF%BC%89150228final.pdf" target="_blank">Japanese</a>; in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2016dovo_160609.pdf" target="_blank">English</a>)
  * **Motivated Reasoning and Information Processing Network**
 
 
