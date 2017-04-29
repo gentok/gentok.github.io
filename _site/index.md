@@ -4,7 +4,7 @@ Welcome to my website. I am Gento Kato, a Political Science Ph.D. Student at Uni
 
 ## Publications
 
-<a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9161950&fileId=S1468109913000339" target="_blank">Collet, Christian and Gento Kato (2014). Does NHK Make You Smarter (and Super News Make You ‘Softer’)? An Examination of Japanese Political Knowledge and the Potential Influence of TV News. <em>Japanese Journal of Political Science</em>, 15(01), 23-50.</a> <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Appendix-Collet-Kato-2014.pdf" target="_blank">(*Online Appendix*)</a>
+<a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9161950&fileId=S1468109913000339" target="_blank">Collet, Christian and Gento Kato (2014). Does NHK Make You Smarter (and Super News Make You ‘Softer’)? An Examination of Japanese Political Knowledge and the Potential Influence of TV News. <em>Japanese Journal of Political Science</em>, 15(01), 23-50.</a> Extra Material: <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Appendix-Collet-Kato-2014.pdf" target="_blank"> *Online Appendix*</a>
 
 ## Working Projects
 
@@ -21,4 +21,4 @@ Welcome to my website. I am Gento Kato, a Political Science Ph.D. Student at Uni
 ## Contacts/CV
 
 E-mail Address: gento.badger@gmail.com <br>
-Access my CV from [**here**](https://github.com/gentok/gentok.github.io/raw/master/files).
+Access my CV from [**here**](https://github.com/gentok/gentok.github.io/raw/master/files/CV%20Gento%20Kato%20170428.pdf).
