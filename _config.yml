@@ -3,10 +3,10 @@ title: [Gento Kato]
 description: ["Ph.D. Student at Department of Political Science, University of California, Davis"]
 show_downloads: [false]
 
-content1: [true]
+content1: [false]
 content1text: ["TOP"]
 content1url: ["https://gentok.github.io##introduction"]
 
-content2: [true]
+content2: [false]
 content2text: ["Projects"]
 content2url: ["https://gentok.github.io##working-projects"]
