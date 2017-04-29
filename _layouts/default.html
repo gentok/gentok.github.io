@@ -29,7 +29,11 @@
         {% endif %}
 
         {% if site.content1 %}
-          <p class="view"><a href="{{ site.content1url }}">{{ site.content1text }}</a></p>
+          <p class="view">
+            <a href="{{ site.content1url }}">{{ site.content1text }}</a>
+            {% if site.content2 %}
+            <a href="{{ site.content2url }}">{{ site.content2text }}</a>
+          </p>
         {% endif %}
 
         {% if site.content2 %}

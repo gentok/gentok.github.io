@@ -5,4 +5,8 @@ show_downloads: [false]
 
 content1: [true]
 content1text: ["TOP"]
-content1url: [""]
+content1url: ["https://gentok.github.io/"]
+
+content2: [true]
+content2text: ["Projects"]
+content2url: ["https://gentok.github.io/"]
