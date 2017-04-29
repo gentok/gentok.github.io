@@ -1,4 +1,8 @@
 theme: jekyll-theme-minimal
 title: [Gento Kato]
 description: ["Ph.D. Student at Department of Political Science, University of California, Davis"]
-show_downloads: [true]
+show_downloads: [false]
+
+content1: [true]
+content1text: ["TOP"]
+content1url: [""]
