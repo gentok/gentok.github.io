@@ -28,9 +28,9 @@ The series of surveys conducted by the group of public opinion scholars (incl., 
 #### Todai--Asahi Surveys (UTAS) [2003--]
 
 
-The series of election surveys conducted by public opinions scholars (incl., Masaki Taniguchi) mainly from the University of Tokyo. Interviews are conducted in collaboration with Asahi newspaper. This project conducts both **public opinion survey** and **expert (electoral candidate) survey** in every national level election since 2003. Descriptions and data are directly available from following project websites (no English description available):
- * **UTAS Public opnion surveys** [[日本語](http://www.masaki.j.u-tokyo.ac.jp/utas/utasv.html)]
- * **UTAS Expert (electoral candidate) surveys** [[日本語](http://www.masaki.j.u-tokyo.ac.jp/utas/utasp.html)]
+The series of election surveys conducted by public opinions scholars (incl., Masaki Taniguchi) mainly from the University of Tokyo. Interviews are conducted in collaboration with Asahi newspaper. This project conducts both <strong>public opinion survey</strong> and <strong>expert (electoral candidate) survey</strong> in every national level election since 2003. Descriptions and data are directly available from following project websites (no English description available):
+ * <strong>UTAS Public opnion surveys</strong> [[日本語](http://www.masaki.j.u-tokyo.ac.jp/utas/utasv.html)]
+ * <strong>UTAS Expert (electoral candidate) surveys</strong> [[日本語](http://www.masaki.j.u-tokyo.ac.jp/utas/utasp.html)]
 
 
 #### Japanese Election Study (JES) [1976--]
