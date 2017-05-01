@@ -5,9 +5,13 @@ Note that this list DOES NOT include comparative public opinion datasets that in
 
 Please let me know if there are any broken links or questions!
 
+
 ### Election Surveys
 
+
 #### Waseda (--Yomiuri) Surveys [1996--]
+
+
 The series of surveys conducted by the group of public opinion scholars (incl., Aiji Tanaka) now mainly from Waseda University, Tokyo. After mid-2000s, interviews are often conducted in collaboration with Yomiuri newspaper.
 
 <li> <strong><font color="blue">Waseda-CASI2010</font></strong>: The national level representative election survey in Japan. It was conducted in two waves of panel surveys, before and after the 2010 the House of Councilors (HoC) election in Japan.  The  data collection is made by Computer Assisted Self-Administered Interview (CASI). Descriptions and data are available from SSJDA [<a href="https://ssjda.iss.u-tokyo.ac.jp/Direct/gaiyo.php?lang=jpn&eid=0774">日本語</a> / <a href="https://ssjda.iss.u-tokyo.ac.jp/Direct/gaiyo.php?lang=eng&eid=0774" target="_blank">English</a>]. Codebooks are available from SSJDA or Waseda University [<a href="http://www.cinaic.jp/survey/waseda-casi2010" target="_blank">日本語</a>]. (<font color="red">They used to have a English codebook</font>, but currently it is not publicly accessible. Ask <a href="https://www.cinaic.jp/contact" target="_blank">them</a> if you can personally get the one.)<br><br>
@@ -20,12 +24,18 @@ The series of surveys conducted by the group of public opinion scholars (incl., 
 
 <li> <strong><font color="red">JEDS96</font></strong>: The national level representative election surveys in Japan. It is conducted in two waves, before and after 1996 House of Representatives (HoR) election. Data collection is mainly made by PAPI (Paper and Pencil Interview) and supplemented by mail. This survey includes the battery of questions from <strong><a href="http://www.cses.org/" target="_blank">CSES project (module 1)</a></strong>. Descriptions and data are available from SSJDA [<a href="https://ssjda.iss.u-tokyo.ac.jp/Direct/gaiyo.php?lang=jpn&eid=0093">日本語</a> / <a href="https://ssjda.iss.u-tokyo.ac.jp/Direct/gaiyo.php?lang=eng&eid=0093" target="_blank">English</a>] (English dataset available).
 
+
 #### Todai--Asahi Surveys (UTAS) [2003--]
+
+
 The series of election surveys conducted by public opinions scholars (incl., Masaki Taniguchi) mainly from the University of Tokyo. Interviews are conducted in collaboration with Asahi newspaper. This project conducts both **public opinion survey** and **expert (electoral candidate) survey** in every national level election since 2003. Descriptions and data are directly available from following project websites (no English description available):
  * **UTAS Public opnion surveys** [[日本語](http://www.masaki.j.u-tokyo.ac.jp/utas/utasv.html)]
  * **UTAS Expert (electoral candidate) surveys** [[日本語](http://www.masaki.j.u-tokyo.ac.jp/utas/utasp.html)]
 
+
 #### Japanese Election Study (JES) [1976--]
+
+
 The most long-standing election surveys in Japan. Each project is composed from series of panel surveys conducted in election time. It is started with the aim to fill in the role of American National Election Study (ANES) in Japan.
 
 <li> <strong><font color="red">JES V (2012-)</font></strong>: The ongoing national level election (and political) surveys in Japan conducted started from 2012. Note that the project no longer uses nationally representative sample, and data collection is made by mix of online, mail, and phone surveys (not face-to-face interviews). The <strong>data is not publicly available yet</strong>, but you can check desrciptions and questionaires from Kansai Unviersity [<a href="http://www.res.kutc.kansai-u.ac.jp/JES/jes5data.html" target="_blank">both 日本語 and English</a>]. <br><br>
@@ -40,9 +50,12 @@ The most long-standing election surveys in Japan. Each project is composed from 
 
 <li> <strong><font color="red">JABISS (1976)</font></strong>: The national level representative election surveys in Japan conducted in 1976. It is composed from two waves of panel surveys, conducted in pre- and post-1976 House of Representatives (HoR) election in Japan. Data collection is  made by PAPI (Paper and Pencil Interview). Data are available from Leviathan Data Bank (for a fee) [<a href="http://www.bokutakusha.com/ldb/ldb_databank.html" target="_blank">日本語</a>] and ICPSR [<a href="http://www.icpsr.umich.edu/icpsrweb/ICPSR/studies/4682" target="_blank">English</a>].
 
+
 ### Political Surveys (Not-Election Time)
 
+
 #### Waseda (--Yomiuri) Surveys [2000--]
+
 
 <li> <strong><font color="blue">Waseda-PAPI2009</font></strong>: The national level representative political survey in Japan. It is a single-shot survey conducted in Februrary 2009, almost half year before the 2009 House of Representatives (HoR) election in Japan. The data collection is made by PAPI (Paper and Pencil Interview). Descriptions and data are available from SSJDA [<a href="https://ssjda.iss.u-tokyo.ac.jp/Direct/gaiyo.php?lang=jpn&eid=0772">日本語</a> / <a href="https://ssjda.iss.u-tokyo.ac.jp/Direct/gaiyo.php?lang=eng&eid=0772" target="_blank">English</a>]. Codebooks are available from SSJDA or Waseda University [<a href="http://www.cinaic.jp/survey/waseda-papi2009" target="_blank">日本語</a>]. (<font color="red">They used to have a English codebook</font>, but currently it is not publicly accessible. Ask <a href="https://www.cinaic.jp/contact" target="_blank">them</a> if you can personally get the one.) <br><br>
 
@@ -51,9 +64,12 @@ The most long-standing election surveys in Japan. Each project is composed from 
 
 <li> <strong><font color="red">JEDS2000</font></strong>: The national level representative political survey in Japan. Main survey was conducted in April through May 2000, followed up with the panel survey in October through November 2000. In addition to main respondents, this data include snowball samples of the main responedents. Data collection is made by PAPI (Paper and Pencil Interview) for main survey, and by mail for follow-up and snowball surveys. Descriptions and data are available from SSJDA [<a href="https://ssjda.iss.u-tokyo.ac.jp/Direct/gaiyo.php?lang=jpn&eid=0247">日本語</a> / <a href="https://ssjda.iss.u-tokyo.ac.jp/Direct/gaiyo.php?lang=eng&eid=0247" target="_blank">English</a>] (English dataset available).
 
+
 #### Other Political Surveys
 
+
 <li> <strong><font color="red">Survey on the Image of Foreign Countries and Current Topics (2011-13)</font></strong>: The series of online surveys conducted from October 2011 through September 2013. The project is organized by Masaru Kohno at Waseda University, and questions are specifically focused on foreign policy issues. It is composed from two 12 monthly waves of panel surveys (24 months in total). In addition, at each month, separate set of fresh sample respondents are asked with identiacl questions. Data collection is made online, through weighted samples of Nikkei Research monitors. Data is available in multiple formats from SSJDA with English-translated questionaires, as follows:
+
 
   * Wave 1-12 Panel Dataset [<a href="https://ssjda.iss.u-tokyo.ac.jp/Direct/gaiyo.php?lang=jpn&eid=0979">日本語</a> / <a href="https://ssjda.iss.u-tokyo.ac.jp/Direct/gaiyo.php?eid=0979&lang=eng" target="_blank">English</a>]
   * Wave 13-24 Panel Dataset [<a href="https://ssjda.iss.u-tokyo.ac.jp/Direct/gaiyo.php?lang=jpn&eid=980">日本語</a> / <a href="https://ssjda.iss.u-tokyo.ac.jp/Direct/gaiyo.php?eid=0980&lang=eng" target="_blank">English</a>]
@@ -62,8 +78,12 @@ The most long-standing election surveys in Japan. Each project is composed from 
 
 ### Social Surveys with Political Questions
 
+
 #### JGSS (Japanese General Social Surveys) [1999--]
+
+
 The series of social surveys that are parallel to General Social Surveys (GSS) in US. This often includes some political questions in the questinaire. Visit their website [<a href="http://jgss.daishodai.ac.jp/index.html">日本語</a> / <a href="http://jgss.daishodai.ac.jp/english/index.html" target="_blank">English</a>] for more detail. Following datasets are available from SSJDA and ICPSR:
+
 
 * <strong><font color="blue">JGSS-Pilot 1 (March 1999)</font></strong>: SSJDA [<a href="https://ssjda.iss.u-tokyo.ac.jp/Direct/gaiyo.php?lang=jpn&eid=0129">日本語</a> / <a href="https://ssjda.iss.u-tokyo.ac.jp/Direct/gaiyo.php?eid=0129&lang=eng" target="_blank">English</a>]
 * <strong><font color="blue">JGSS-Pilot 2 (October 1999)</font></strong>: SSJDA [<a href="https://ssjda.iss.u-tokyo.ac.jp/Direct/gaiyo.php?lang=jpn&eid=0146">日本語</a> / <a href="https://ssjda.iss.u-tokyo.ac.jp/Direct/gaiyo.php?eid=0146&lang=eng" target="_blank">English</a>]
