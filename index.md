@@ -39,7 +39,6 @@ I share my notes on quatitative methods and their execution codes (mosly in R, b
 
  * [Japanese Public Opinion Datasets](https://gentok.github.io/datasets.html)
 
-## Contacts/CV
+## Contact
 
-E-mail Address: gento.badger@gmail.com <br>
-Access my CV from [**here**](https://github.com/gentok/gentok.github.io/raw/master/files/CV%20Gento%20Kato%20170428.pdf).
+E-mail Address: gento.badger@gmail.com

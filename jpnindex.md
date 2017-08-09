@@ -49,7 +49,6 @@
 
  * [日本の世論調査データセット](https://gentok.github.io/datasets.html) (英語です)
 
-## 連絡先/CV
+## 連絡先
 
-E-mail Address: gento.badger@gmail.com <br>
-CVは [**ここから**](https://github.com/gentok/gentok.github.io/raw/master/files/CV%20Gento%20Kato%20170428.pdf)(英語です)。
+E-mail Address: gento.badger@gmail.com 
