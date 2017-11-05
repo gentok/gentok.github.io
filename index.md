@@ -17,7 +17,7 @@ Welcome to my website! I am Gento Kato, a Political Science Ph.D. Student at Uni
 
  * **International News and Foreign Perception**
    * <a href="https://github.com/gentok/Foreign_Image_News_Project" target="_blank">GitHub Project Repository</a>
-   * <a href="https://github.com/gentok/Foreign_Image_News_Project/blob/master/papers/Kato2015loor_160304.pdf" target="_blank">Working paper</a>
+   * <a href="https://github.com/gentok/Foreign_Image_News_Project/blob/master/papers/Kato2017inne_171105.pdf" target="_blank">Working paper</a>
 
 
  * **Political Headlines Project** (In collaboration with Tzu-ping Liu)

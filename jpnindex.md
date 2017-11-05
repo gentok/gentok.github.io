@@ -24,7 +24,7 @@
 
  * **International News and Foreign Perception**
    * <a href="https://github.com/gentok/Foreign_Image_News_Project" target="_blank">GitHub リポジトリ</a>
-   * <a href="https://github.com/gentok/Foreign_Image_News_Project/blob/master/papers/Kato2015loor_160304.pdf" target="_blank">ワーキングペーパー</a>
+   * <a href="https://github.com/gentok/Foreign_Image_News_Project/blob/master/papers/Kato2017inne_171105.pdf" target="_blank">ワーキングペーパー</a>
 
 
  * **Political Headlines Project** (In collaboration with Tzu-ping Liu)
@@ -51,4 +51,4 @@
 
 ## 連絡先
 
-E-mail Address: gento.badger@gmail.com 
+E-mail Address: gento.badger@gmail.com
