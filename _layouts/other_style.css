@@ -1,4 +1,4 @@
-input[type="button"] {
+input[type=button] {
     /* 文字サイズを1.4emに指定 */
     font-size: 1.4em;
 
@@ -28,7 +28,7 @@ input[type="button"] {
     -webkit-box-shadow: 2px 2px 3px 1px #666;
 }
 
-input[type="button"]:hover {
+input[type=button]:hover {
     /* 背景色を明るい青色に指定 */
     background-color: #24d;
 
