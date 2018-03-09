@@ -1,5 +1,5 @@
 plugins:
   - jekyll-remote-theme
-remote_theme: poole/hyde
+remote_theme: benbalter/retlab
 title: [Gento Kato]
 description: ["Ph.D. Student at Department of Political Science, University of California, Davis"]
