@@ -8,7 +8,9 @@ Welcome to my website! I am Gento Kato, a Political Science Ph.D. Student at Uni
 
 ## Working Projects
 
- * **Uninformed Voters Project**
+ * <a href="https://github.com/gentok/UninformedModel" target="_blank">**The Logic and Consequences of Uninformed Voting**</a>
+   * <a href="https://github.com/gentok/UninformedModel/raw/master/Kato2018thlo_main.pdf" target="_blank">Working paper</a>
+   * <a href="https://github.com/gentok/UninformedModel/blob/master/Kato2018thlo_simulations.R" target="_blank">Simulation Codes</a>
 
 
  * **Measures of Uncertainty and Knowledge**
