@@ -7,7 +7,7 @@
    2015年3月　早稲田大学大学院政治学研究科政治学コース修士課程　修了 <br>
    2015年9月-　カリフォルニア大学デービス校　政治学研究科博士課程　在籍中
 
-  * 研究関心：国際基督教大学教養学部在籍時から政治学を専攻し、現代政治学、政治心理学、世論研究の分野において研究を行ってきました。特に「民主主義下における市民の意見の代表メカニズム」を巡るテーマに関心を持っています。具体的には、メディアの報道内容報道が政治意見、政治参加に与える影響、政治知識・政治的洗練度の測定方法や決定要因、そして政治行動・意見の形成プロセスなどについて分析を行いました。修士課程では、世論調査の意見設問に対する「わからない回答」や、質問されてから回答するまでにかかる「回答時間」などから政治的洗練の度合いを測定し、政治参加を説明しました。博士課程でも、引き続き政治行動における、政治知識・洗練度の役割に注目して研究を行っています。
+  * 研究関心：国際基督教大学教養学部在籍時から政治学を専攻し、現代政治学、政治心理学、世論研究の分野において研究を行ってきました。特に「民主主義下における市民の意見の代表メカニズム」を巡るテーマに関心を持っています。具体的には、メディアの報道内容報道が政治意見、政治参加に与える影響、政治知識・政治的洗練度の測定方法や決定要因、そして政治行動・意見の形成プロセスなどについて分析を行いました。修士課程では、世論調査の意見設問に対する「わからない回答」や、質問されてから回答するまでにかかる「回答時間」などから政治的洗練の度合いを測定し、政治参加を説明しました。博士課程では、低情報下の政治行動を説明する要因に注目して研究を行っています。
 
 ## 査読付論文
 
@@ -15,28 +15,36 @@
 
 ## 現在進行中の研究プロジェクト
 
- * **Uninformed Voters Project**
+ * **The Logic and Consequences of Uninformed Abstention**</a>
+   * <a href="https://github.com/gentok/UninformedModel" target="_blank">GitHubリポジトリ</a> 
+   * <a href="https://github.com/gentok/UninformedModel/raw/master/Kato2018thlo_main.pdf" target="_blank">ワーキングペーパー (4/7/2019, English)</a>
+
+
+ * **Explaining Uninformed Vote Choice**</a>
+   * <a href="https://github.com/gentok/UninformedChoice" target="_blank">GitHubリポジトリ</a> 
+   * <a href="https://github.com/gentok/UninformedModel/raw/master/Kato2018thlo_main.pdf" target="_blank">ワーキングペーパー (4/7/2019, English)</a>
 
 
  * **Measures of Uncertainty and Knowledge**
    * <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2014pawi_150301_Final_fixed.pdf" target="_blank">ワーキングペーパー</a> (修士論文, English)
 
 
- * **International News and Foreign Perception**
-   * <a href="https://github.com/gentok/Foreign_Image_News_Project" target="_blank">GitHub リポジトリ</a>
+ * **International News and the Perception of Foreign States**
+   * <a href="https://github.com/gentok/Foreign_Image_News_Project" target="_blank">GitHubリポジトリ</a>
    * <a href="https://github.com/gentok/Foreign_Image_News_Project/blob/master/papers/Kato2017inne_171105.pdf" target="_blank">ワーキングペーパー</a>
 
 
- * **Political Headlines Project** (In collaboration with Tzu-ping Liu)
-   * <a href="https://github.com/gentok/Political_Headlines_Project" target="_blank">GitHub リポジトリ</a>
+ * **Political Headlines Project** (with Tzu-ping Liu)
+   * <a href="https://github.com/gentok/Political_Headlines_Project" target="_blank">GitHubリポジトリ</a>
 
 
- * **情報探索とアイトラッキング** (劉凌との共著)
-   * ワーキングペーパー (<a href="https://github.com/gentok/gentok.github.io/raw/master/files/%E5%8A%89%E3%83%BB%E5%8A%A0%E8%97%A4%EF%BC%882015%EF%BC%89150228final.pdf" target="_blank">日本語</a>; <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2016dovo_160609.pdf" target="_blank">English</a>) <br>
+ * **情報探索とアイトラッキング** (with 劉凌)
+   * ワーキングペーパー (in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/%E5%8A%89%E3%83%BB%E5%8A%A0%E8%97%A4%EF%BC%882015%EF%BC%89150228final.pdf" target="_blank">日本語</a>; in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2016dovo_160609.pdf" target="_blank">English</a>) <br>
 
 
- * **Motivated Reasoning and Information Processing Network**
-
+ * **Motivated Reasoning and Information Processing Network** (with Takanori Fujiwara, Christian Collet, Tetsuro Kobayashi, and Takafumi Suzuki)
+   *  <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Motivation_and_InfoNet_170811_apsaFinal.pdf" target="_blank">ワーキングペーパー (8/11/2017, English)</a>
+   *  <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Motivation_and_InfoNet_PT170831handout.pdf" target="_blank">発表スライド (8/31/2017, English)</a>
 
 ## 方法論メモ
 

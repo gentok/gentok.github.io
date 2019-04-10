@@ -1,6 +1,6 @@
 ## Introduction
 
-Welcome to my website! I am Gento Kato, a Political Science Ph.D. Student at University of California, Davis. I am originally from Kobe, the port city located in west Japan. I received my B.A. in Politics from International Christian University, Tokyo, Japan in 2012, and got my M.A. in Political Science from Waseda University, Tokyo, Japan in 2015. My specialties are Political Behavior, Political Psychology, and Japanese Politics, with particular interest in the role of information in voting and political decisions.
+Welcome to my website! I am Gento Kato, a Political Science Ph.D. candidate at the University of California, Davis. I am originally from Kobe, the port city located in west Japan. I received my B.A. in Politics from International Christian University, Tokyo, Japan in 2012, and got my M.A. in Political Science from Waseda University, Tokyo, Japan in 2015. My specialties are Political Behavior, Political Psychology, and Japanese Politics, with particular interest in voting and political decisions under low level of information.
 
 ## Publications
 
@@ -8,29 +8,36 @@ Welcome to my website! I am Gento Kato, a Political Science Ph.D. Student at Uni
 
 ## Working Projects
 
- * <a href="https://github.com/gentok/UninformedModel" target="_blank">**The Logic and Consequences of Uninformed Voting**</a>
-   * <a href="https://github.com/gentok/UninformedModel/raw/master/Kato2018thlo_main.pdf" target="_blank">Working paper</a>
-   * <a href="https://github.com/gentok/UninformedModel/blob/master/Kato2018thlo_simulations.R" target="_blank">Simulation Codes</a>
+ * **The Logic and Consequences of Uninformed Abstention**</a>
+   * <a href="https://github.com/gentok/UninformedModel" target="_blank">GitHub Project Repository</a> 
+   * <a href="https://github.com/gentok/UninformedModel/raw/master/Kato2018thlo_main.pdf" target="_blank">Working paper (4/7/2019)</a>
+
+
+ * **Explaining Uninformed Vote Choice**</a>
+   * <a href="https://github.com/gentok/UninformedChoice" target="_blank">GitHub Project Repository</a> 
+   * <a href="https://github.com/gentok/UninformedModel/raw/master/Kato2018thlo_main.pdf" target="_blank">Working paper (4/7/2019)</a>
 
 
  * **Measures of Uncertainty and Knowledge**
    * <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2014pawi_150301_Final_fixed.pdf" target="_blank">Working paper</a> (my MA thesis)
 
 
- * **International News and Foreign Perception**
+ * **International News and the Perception of Foreign States**
    * <a href="https://github.com/gentok/Foreign_Image_News_Project" target="_blank">GitHub Project Repository</a>
    * <a href="https://github.com/gentok/Foreign_Image_News_Project/blob/master/papers/Kato2017inne_171105.pdf" target="_blank">Working paper</a>
 
 
- * **Political Headlines Project** (In collaboration with Tzu-ping Liu)
+ * **Political Headlines Project** (with Tzu-ping Liu)
    * <a href="https://github.com/gentok/Political_Headlines_Project" target="_blank">GitHub Project Repository</a>
 
 
- * **Information Search and Eye-Tracking** (In collaboration with Ling Liu)
+ * **Information Search and Eye-Tracking** (with Ling Liu)
    * Working papers (in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/%E5%8A%89%E3%83%BB%E5%8A%A0%E8%97%A4%EF%BC%882015%EF%BC%89150228final.pdf" target="_blank">日本語</a>; in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2016dovo_160609.pdf" target="_blank">English</a>) <br>
 
 
- * **Motivated Reasoning and Information Processing Network**
+ * **Motivated Reasoning and Information Processing Network** (with Takanori Fujiwara, Christian Collet, Tetsuro Kobayashi, and Takafumi Suzuki)
+   *  <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Motivation_and_InfoNet_170811_apsaFinal.pdf" target="_blank">Working paper (8/11/2017)</a>
+   *  <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Motivation_and_InfoNet_PT170831handout.pdf" target="_blank">Presentation slide (8/31/2017)</a>
 
 
 ## Method Notes
