@@ -17,7 +17,7 @@
 
  * **The Logic and Consequences of Uninformed Abstention**
    * <a href="https://github.com/gentok/UninformedModel" target="_blank">GitHubリポジトリ</a> 
-   * <a href="https://github.com/gentok/UninformedModel/raw/master/Kato2018thlo_main.pdf" target="_blank">ワーキングペーパー (4/7/2019, English)</a>
+   * <a href="https://github.com/gentok/UninformedModel/raw/master/Kato2019thlo_main.pdf" target="_blank">ワーキングペーパー (4/7/2019, English)</a>
 
 
  * **Explaining Uninformed Vote Choice**
