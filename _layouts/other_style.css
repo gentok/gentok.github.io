@@ -26,14 +26,5 @@ input[type=button] {
     box-shadow: 2px 2px 3px 1px #666;
     -moz-box-shadow: 2px 2px 3px 1px #666;
     -webkit-box-shadow: 2px 2px 3px 1px #666;
-    
-    cursor: pointer;
-}
-
-input[type=button]:hover {
-    /* 背景色を明るい青色に指定 */
-    background-color: #24d;
-    /* 文字色を白色に指定 */
-    color: #fff;
-    cursor: pointer;
+    cursor:pointer;
 }
