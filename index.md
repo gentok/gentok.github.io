@@ -8,14 +8,14 @@ Welcome to my website! I am Gento Kato, a Political Science Ph.D. candidate at t
 
 ## Working Projects
 
- * **The Logic and Consequences of Uninformed Abstention**</a>
+ * **The Logic and Consequences of Uninformed Abstention**
    * <a href="https://github.com/gentok/UninformedModel" target="_blank">GitHub Project Repository</a> 
    * <a href="https://github.com/gentok/UninformedModel/raw/master/Kato2018thlo_main.pdf" target="_blank">Working paper (4/7/2019)</a>
 
 
- * **Explaining Uninformed Vote Choice**</a>
+ * **Explaining Uninformed Vote Choice**
    * <a href="https://github.com/gentok/UninformedChoice" target="_blank">GitHub Project Repository</a> 
-   * <a href="https://github.com/gentok/UninformedModel/raw/master/Kato2018thlo_main.pdf" target="_blank">Working paper (4/7/2019)</a>
+   * <a href="https://github.com/gentok/UninformedModel/raw/master/Kato2018thlo_main.pdf" target="_blank">Working paper (4/9/2019)</a>
 
 
  * **Measures of Uncertainty and Knowledge**

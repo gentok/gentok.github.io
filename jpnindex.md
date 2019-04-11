@@ -15,14 +15,14 @@
 
 ## 現在進行中の研究プロジェクト
 
- * **The Logic and Consequences of Uninformed Abstention**</a>
+ * **The Logic and Consequences of Uninformed Abstention**
    * <a href="https://github.com/gentok/UninformedModel" target="_blank">GitHubリポジトリ</a> 
    * <a href="https://github.com/gentok/UninformedModel/raw/master/Kato2018thlo_main.pdf" target="_blank">ワーキングペーパー (4/7/2019, English)</a>
 
 
- * **Explaining Uninformed Vote Choice**</a>
+ * **Explaining Uninformed Vote Choice**
    * <a href="https://github.com/gentok/UninformedChoice" target="_blank">GitHubリポジトリ</a> 
-   * <a href="https://github.com/gentok/UninformedModel/raw/master/Kato2018thlo_main.pdf" target="_blank">ワーキングペーパー (4/7/2019, English)</a>
+   * <a href="https://github.com/gentok/UninformedModel/raw/master/Kato2018thlo_main.pdf" target="_blank">ワーキングペーパー (4/9/2019, English)</a>
 
 
  * **Measures of Uncertainty and Knowledge**
