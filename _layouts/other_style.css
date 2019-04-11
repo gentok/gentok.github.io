@@ -31,7 +31,7 @@ input[type=button] {
 input[type=button]:hover {
     /* 背景色を明るい青色に指定 */
     background-color: #24d;
-
     /* 文字色を白色に指定 */
     color: #fff;
+    cursor: pointer;
 }
