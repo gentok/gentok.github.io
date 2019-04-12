@@ -39,15 +39,6 @@ Welcome to my website! I am Gento Kato, a Political Science Ph.D. candidate at t
    *  <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Motivation_and_InfoNet_170811_apsaFinal.pdf" target="_blank">Working paper (8/11/2017)</a>
    *  <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Motivation_and_InfoNet_PT170831handout.pdf" target="_blank">Presentation slide (8/31/2017)</a>
 
-
-## Method Notes
-
-I share my notes on quatitative methods and their execution codes (mosly in R, but some in Python 2.7, Stata and SPSS) that I acquired from lectures and/or by myself. Note that there may be my misunderstandings or code bugs. Check more details from [here](https://github.com/gentok/Method_Notes).
-
-## Resources
-
- * [Japanese Public Opinion Datasets](https://gentok.github.io/datasets.html)
-
 ## Contact
 
 E-mail Address: gento.badger@gmail.com
