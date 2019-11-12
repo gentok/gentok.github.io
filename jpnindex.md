@@ -5,7 +5,7 @@
  * 学歴：<br>
    2012年3月　国際基督教大学教養学部アーツ・サイエンス学科　修了 <br>
    2015年3月　早稲田大学大学院政治学研究科政治学コース修士課程　修了 <br>
-   2015年9月-　カリフォルニア大学デービス校　政治学研究科博士課程　在籍中
+   2015年9月-　カリフォルニア大学デービス校　政治学部博士課程　在籍中
 
   * 研究関心：国際基督教大学教養学部在籍時から政治学を専攻し、現代政治学、政治心理学、世論研究の分野において研究を行ってきました。特に「民主主義下における市民の意見の代表メカニズム」を巡るテーマに関心を持っています。具体的には、メディアの報道内容報道が政治意見、政治参加に与える影響、政治知識・政治的洗練度の測定方法や決定要因、そして政治行動・意見の形成プロセスなどについて分析を行いました。修士課程では、世論調査の意見設問に対する「わからない回答」や、質問されてから回答するまでにかかる「回答時間」などから政治的洗練の度合いを測定し、政治参加を説明しました。博士課程では、低情報下の政治行動を説明する要因に注目して研究を行っています。
 
@@ -17,12 +17,12 @@
 
  * **The Logic and Consequences of Uninformed Abstention**
    * <a href="https://github.com/gentok/UninformedModel" target="_blank">GitHubリポジトリ</a> 
-   * <a href="https://github.com/gentok/UninformedModel/raw/master/Kato2019thlo_main.pdf" target="_blank">ワーキングペーパー (4/7/2019, English)</a>
+   * <a href="https://github.com/gentok/UninformedModel/raw/master/Kato2019thlo_main.pdf" target="_blank">ワーキングペーパー (9/9/2019, English)</a>
 
 
  * **Explaining Uninformed Vote Choice**
    * <a href="https://github.com/gentok/UninformedChoice" target="_blank">GitHubリポジトリ</a> 
-   * <a href="https://github.com/gentok/UninformedModel/raw/master/Kato2018thlo_main.pdf" target="_blank">ワーキングペーパー (4/9/2019, English)</a>
+   * <a href="https://github.com/gentok/UninformedChoice/raw/master/papers/Kato2019loba_v14.pdf" target="_blank">ワーキングペーパー (9/9/2019, English)</a>
 
 
  * **Measures of Uncertainty and Knowledge**

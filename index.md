@@ -1,6 +1,6 @@
 ## Introduction
 
-Welcome to my website! I am Gento Kato, a Political Science Ph.D. candidate at the University of California, Davis. I am originally from Kobe, the port city located in west Japan. I received my B.A. in Politics from International Christian University, Tokyo, Japan in 2012, and got my M.A. in Political Science from Waseda University, Tokyo, Japan in 2015. My specialties are Political Behavior, Political Psychology, and Japanese Politics, with particular interest in voting and political decisions under low level of information.
+Welcome to my website! I am Gento Kato, a Political Science Ph.D. candidate at the University of California, Davis. I am originally from Kobe, the port city located in west Japan. I received my B.A. in Politics from International Christian University, Tokyo, Japan in 2012, and got my M.A. in Political Science from Waseda University, Tokyo, Japan in 2015. My specialties are Political Behavior (American and Japanese Politics), Political Psychology, Formal Modelling, and Quantitative Methodologies. with particular interest in voting and political decisions under low level of information.
 
 ## Publications
 
@@ -10,12 +10,12 @@ Welcome to my website! I am Gento Kato, a Political Science Ph.D. candidate at t
 
  * **The Logic and Consequences of Uninformed Abstention**
    * <a href="https://github.com/gentok/UninformedModel" target="_blank">GitHub Project Repository</a> 
-   * <a href="https://github.com/gentok/UninformedModel/raw/master/Kato2019thlo_main.pdf" target="_blank">Working paper (4/7/2019)</a>
+   * <a href="https://github.com/gentok/UninformedModel/raw/master/Kato2019thlo_main.pdf" target="_blank">Working paper (9/9/2019)</a>
 
 
  * **Explaining Uninformed Vote Choice**
    * <a href="https://github.com/gentok/UninformedChoice" target="_blank">GitHub Project Repository</a> 
-   * <a href="https://github.com/gentok/UninformedModel/raw/master/Kato2018thlo_main.pdf" target="_blank">Working paper (4/9/2019)</a>
+   * <a href="https://github.com/gentok/UninformedChoice/raw/master/papers/Kato2019loba_v14.pdf" target="_blank">Working paper (9/9/2019)</a>
 
 
  * **Measures of Uncertainty and Knowledge**
