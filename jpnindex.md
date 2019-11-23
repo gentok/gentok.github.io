@@ -34,7 +34,7 @@
    * <a href="https://github.com/gentok/Foreign_Image_News_Project/blob/master/papers/Kato2017inne_171105.pdf" target="_blank">ワーキングペーパー</a>
 
  * **Donor Competition and Public Support for Foreign Aid Sanctions** (with Masaru Kohno, Gabriella Montinola, and Matthew Winters)
-   * <a href="https://github.com/gentok/donorcompetition", target=" blank">GitHubリポジトリ</a>
+   * <a href="https://github.com/gentok/donorcompetition" target=" blank">GitHubリポジトリ</a>
 
  * **Political Headlines Project** (with Tzu-ping Liu)
    * <a href="https://github.com/gentok/Political_Headlines_Project" target="_blank">GitHubリポジトリ</a>
