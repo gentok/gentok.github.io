@@ -25,7 +25,9 @@ Welcome to my website! I am Gento Kato, a Political Science Ph.D. candidate at t
  * **International News and the Perception of Foreign States**
    * <a href="https://github.com/gentok/Foreign_Image_News_Project" target="_blank">GitHub Project Repository</a>
    * <a href="https://github.com/gentok/Foreign_Image_News_Project/blob/master/papers/Kato2017inne_171105.pdf" target="_blank">Working paper</a>
-
+ 
+ * **Donor Competition and Public Support for Foreign Aid Sanctions** (with Masaru Kohno, Gabriella Montinola, and Matthew Winters)
+   * <a href="https://github.com/gentok/donorcompetition", target=" blank">GitHub Project Repository</a>
 
  * **Political Headlines Project** (with Tzu-ping Liu)
    * <a href="https://github.com/gentok/Political_Headlines_Project" target="_blank">GitHub Project Repository</a>
