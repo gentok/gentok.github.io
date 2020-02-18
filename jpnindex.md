@@ -11,7 +11,7 @@
 
 ## 査読付論文
 
-Kohno, Masaru, Gabriella R. Montinola, Matthew S. Winters, and Gento Kato (Forthcoming) “Donor Competition and Public Support for Foreign Aid Sanctions,” <em>Political Research Quarterly</em>. Extra Material: <a href="https://github.com/gentok/donorcompetition" target="_blank"> *Replication Files* </a> 
+<a href="https://journals.sagepub.com/doi/10.1177/1065912919897837" target="_blank">Kohno, Masaru, Gabriella R. Montinola, Matthew S. Winters, and Gento Kato (2020) “Donor Competition and Public Support for Foreign Aid Sanctions,” <em>Political Research Quarterly</em>.</a> Extra Material: <a href="https://github.com/gentok/donorcompetition" target="_blank"> *Replication Files* </a> 
 
 <a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9161950&fileId=S1468109913000339" target="_blank">Collet, Christian and Gento Kato (2014). Does NHK Make You Smarter (and Super News Make You ‘Softer’)? An Examination of Japanese Political Knowledge and the Potential Influence of TV News. <em>Japanese Journal of Political Science</em>, 15(01), 23-50.</a> 追加資料: <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Appendix-Collet-Kato-2014.pdf" target="_blank"> *Online Appendix*</a>
 
