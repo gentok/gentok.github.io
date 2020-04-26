@@ -11,17 +11,15 @@
 
 ## 査読付論文
 
+Kato, Gento (Forthcoming) “When Strategic Uninformed Abstention Improves Democratic Accountability,” <em>Journal of Theoretical Politics</em>. <a href="https://github.com/gentok/UninformedModel" target="_blank">*GitHub Project Repository*</a>
+
 <a href="https://journals.sagepub.com/doi/10.1177/1065912919897837" target="_blank">Kohno, Masaru, Gabriella R. Montinola, Matthew S. Winters, and Gento Kato (2020) “Donor Competition and Public Support for Foreign Aid Sanctions,” <em>Political Research Quarterly</em>.</a> Extra Material: <a href="https://github.com/gentok/donorcompetition" target="_blank"> *Replication Files* </a> 
 
 <a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9161950&fileId=S1468109913000339" target="_blank">Collet, Christian and Gento Kato (2014). Does NHK Make You Smarter (and Super News Make You ‘Softer’)? An Examination of Japanese Political Knowledge and the Potential Influence of TV News. <em>Japanese Journal of Political Science</em>, 15(01), 23-50.</a> 追加資料: <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Appendix-Collet-Kato-2014.pdf" target="_blank"> *Online Appendix*</a>
 
 ## 現在進行中の研究プロジェクト
 
-* **When Strategic Uninformed Abstention Improves Democratic Accountability** <br> <em>Revised and Resubmitted to the Journal of Theoretical Politics</em>
-   * <a href="https://github.com/gentok/UninformedModel/raw/master/Kato2019thlo_main.pdf" target="_blank">ワーキングペーパー (12/2/2019)</a>
-   * <a href="https://github.com/gentok/UninformedModel" target="_blank">GitHubリポジトリ</a> 
-
-* **日本における「ねじれ」た金融緩和選好を説明する：イデオロギーと政策選好の関係に情報環境が与える影響の実験的検証** (with 安中進) <br> <em> Revise and Resubmit from Japanese Journal of Electoral Studies</em>
+* **日本における「ねじれ」た金融緩和選好を説明する：イデオロギーと政策選好の関係に情報環境が与える影響の実験的検証** (with 安中進) <br> <em> Revised and Resubmitted to Japanese Journal of Electoral Studies</em>
    * <a href="https://github.com/gentok/Econ_Ideology/raw/master/paper/Econ_Ideology_Paper_v4_2_all.pdf" target="_blank">ワーキングペーパー (12/30/2019)</a>
    * <a href="https://github.com/gentok/Econ_Ideology" target="_blank">GitHubリポジトリ</a> 
 
