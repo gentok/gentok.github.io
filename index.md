@@ -1,6 +1,6 @@
 ## Introduction
 
-Welcome to my website! I am Gento Kato, a Political Science Ph.D. candidate at the University of California, Davis. I am originally from Kobe, the port city located in west Japan. I received my B.A. in Politics from International Christian University, Tokyo, Japan in 2012, and got my M.A. in Political Science from Waseda University, Tokyo, Japan in 2015. My specialties are Political Behavior (American and Japanese Politics), Political Psychology, Formal Modelling, and Quantitative Methodologies. with particular interest in voting and political decisions under low level of information. My works have been published at <em><b>Journal of Theoretical Politics</b></em>, <em><b>Political Research Quarterly</b></em>, and <em><b>Japanese Journal of Political Science</b></em>.
+Welcome to my website! I am Gento Kato, a Political Science Ph.D. candidate at the University of California, Davis. I am originally from Kobe, the port city located in west Japan. I received my B.A. in Politics from International Christian University, Tokyo, Japan in 2012, and got my M.A. in Political Science from Waseda University, Tokyo, Japan in 2015. My specialties are Political Behavior (American and Japanese Politics), Political Psychology, Formal Modelling, and Quantitative Methodologies, with a particular interest in voting and political decisions under low level of information. My works have been published at <em><b>Journal of Theoretical Politics</b></em>, <em><b>Political Research Quarterly</b></em>, and <em><b>Japanese Journal of Political Science</b></em>.
 
 ## Publications
 
@@ -27,6 +27,9 @@ Kato, Gento (Forthcoming) “When Strategic Uninformed Abstention Improves Democ
    * <a href="https://github.com/gentok/Foreign_Image_News_Project/blob/master/papers/Kato2017inne_171105.pdf" target="_blank">Working paper</a>
    * <a href="https://github.com/gentok/Foreign_Image_News_Project" target="_blank">GitHub Project Repository</a>
  
+ * **Can Non-Western University Education Cultivate Immigrant Integration? The Case of Local Enfranchisement for Foreign Residents in Japan** (with Fan Lu)
+   * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3607550" target="_blank">Working paper (5/17/2020)</a>
+
  * **Political Headlines Project** (with Tzu-ping Liu)
    * <a href="https://github.com/gentok/Political_Headlines_Project" target="_blank">GitHub Project Repository</a>
 

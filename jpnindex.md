@@ -34,6 +34,9 @@ Kato, Gento (Forthcoming) “When Strategic Uninformed Abstention Improves Democ
    * <a href="https://github.com/gentok/Foreign_Image_News_Project/blob/master/papers/Kato2017inne_171105.pdf" target="_blank">ワーキングペーパー</a>
    * <a href="https://github.com/gentok/Foreign_Image_News_Project" target="_blank">GitHubリポジトリ</a>
  
+ * **Can Non-Western University Education Cultivate Immigrant Integration? The Case of Local Enfranchisement for Foreign Residents in Japan** (with Fan Lu)
+   * <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3607550" target="_blank">Working paper (5/17/2020)</a>
+   
  * **Political Headlines Project** (with Tzu-ping Liu)
    * <a href="https://github.com/gentok/Political_Headlines_Project" target="_blank">GitHubリポジトリ</a>
 
