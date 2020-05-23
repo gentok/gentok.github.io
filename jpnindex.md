@@ -27,7 +27,6 @@ Kato, Gento (Forthcoming) “When Strategic Uninformed Abstention Improves Democ
     * ワーキングペーパー (5/17/2020) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3607550" target="_blank">[Available from SSRN]</a>
 
   * **日本における「ねじれ」た金融緩和選好を説明する：イデオロギーと政策選好の関係に情報環境が与える影響の実験的検証** (with 安中進) <br> <em> Revised and Resubmitted to Japanese Journal of Electoral Studies</em>
-    * <a href="https://github.com/gentok/Econ_Ideology/raw/master/paper/Econ_Ideology_Paper_v4_2_all.pdf" target="_blank">ワーキングペーパー (12/30/2019)</a>
     * <a href="https://github.com/gentok/Econ_Ideology" target="_blank">GitHubリポジトリ</a> 
 
  * **Local Bandwagoning and National Balancing: How Uninformed Voters Respond to the Partisan Environment**
