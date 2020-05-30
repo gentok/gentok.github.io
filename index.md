@@ -4,6 +4,8 @@ Welcome to my website! I am Gento Kato, a Political Science Ph.D. candidate at t
 
 ## Peer-Reviewed Publications
 
+Kato, Gento and Susumu Annnaka (Forthcoming) “Explaining 'Twisted' Preferences Toward Monetary Easing in Japan: Experimental Evidence on the Effect of Information Environment on the Relationship Between Ideology and Policy Preferences,” <em>Japanese Journal of Electoral Studies (Senkyo Kenkyu)</em>. In Japanese. <a href="https://github.com/gentok/Econ_Ideology" target="_blank">*GitHub Project Repository*</a>
+
 Kato, Gento (Forthcoming) “When Strategic Uninformed Abstention Improves Democratic Accountability,” <em>Journal of Theoretical Politics</em>. <a href="https://github.com/gentok/UninformedModel" target="_blank">*GitHub Project Repository*</a>
 
 <a href="https://journals.sagepub.com/doi/10.1177/1065912919897837" target="_blank">Kohno, Masaru, Gabriella R. Montinola, Matthew S. Winters, and Gento Kato (2020) “Donor Competition and Public Support for Foreign Aid Sanctions,” <em>Political Research Quarterly</em>.</a> Extra Material: <a href="https://github.com/gentok/donorcompetition" target="_blank"> *Replication Files* </a>
@@ -18,9 +20,6 @@ Kato, Gento (Forthcoming) “When Strategic Uninformed Abstention Improves Democ
  
  * **Can Non-Western University Education Cultivate Immigrant Integration? The Case of Local Enfranchisement for Foreign Residents in Japan** (with Fan Lu)
    * Working paper (5/17/2020) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3607550" target="_blank">[Available from SSRN]</a>
-
-* **Explaining "Twisted" Preferences Toward Monetary Easing in Japan** (in Japanese; with Susumu Annaka) <br> <em> Revise and Resubmit from Japanese Journal of Electoral Studies</em>
-   * <a href="https://github.com/gentok/Econ_Ideology" target="_blank">GitHub Project Repository</a> 
 
  * **Local Bandwagoning and National Balancing: How Uninformed Voters Respond to the Partisan Environment**
    * <a href="https://github.com/gentok/UninformedChoice/raw/master/papers/Kato2019loba_v14.pdf" target="_blank">Working paper (9/9/2019)</a>
