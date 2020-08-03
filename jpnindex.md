@@ -2,16 +2,21 @@
 
  * 名前：加藤言人（Kato, Gento）
 
+ * 職歴： <br>
+   2020年8月- ナザルバエフ大学 講師
+
  * 学歴：<br>
    2012年3月　国際基督教大学教養学部アーツ・サイエンス学科　修了 <br>
    2015年3月　早稲田大学大学院政治学研究科政治学コース修士課程　修了 <br>
-   2015年9月-　カリフォルニア大学デービス校　政治学部博士課程　在籍中
+   2020年6月　カリフォルニア大学デービス校　政治学部博士課程　修了 <br>　
 
-  * 研究関心：国際基督教大学教養学部在籍時から政治学を専攻し、現代政治学、政治心理学、世論研究の分野において研究を行ってきました。特に「民主主義下における市民の意見の代表メカニズム」を巡るテーマに関心を持っています。具体的には、メディアの報道内容報道が政治意見、政治参加に与える影響、政治知識・政治的洗練度の測定方法や決定要因、そして政治行動・意見の形成プロセスなどについて分析を行いました。修士課程では、世論調査の意見設問に対する「わからない回答」や、質問されてから回答するまでにかかる「回答時間」などから政治的洗練の度合いを測定し、政治参加を説明しました。博士課程では、低情報下の政治行動を説明する要因に注目して研究を行っています。
+  * 研究関心：国際基督教大学教養学部在籍時から政治学を専攻し、現代政治学、政治心理学、世論研究の分野において研究を行ってきました。特に「民主主義下における市民の意見の代表メカニズム」を巡るテーマに関心を持っています。具体的には、メディアの報道内容報道が政治意見、政治参加に与える影響、政治知識・政治的洗練度の測定方法や決定要因、そして政治行動・意見の形成プロセスなどについて分析を行いました。修士課程では、世論調査の意見設問に対する「わからない回答」や、質問されてから回答するまでにかかる「回答時間」などから政治的洗練の度合いを測定し、政治参加を説明しました。博士課程からは、低情報下の政治行動を説明する要因に注目して研究を行っています。
 
 ## 査読付論文
 
-Kato, Gento (Forthcoming) “When Strategic Uninformed Abstention Improves Democratic Accountability,” <em>Journal of Theoretical Politics</em>. <a href="https://github.com/gentok/UninformedModel" target="_blank">*GitHubリポジトリ*</a>
+加藤言人・安中進 (近刊予定) “日本における「ねじれ」た金融緩和選好を説明する：イデオロギーと政策選好の関係に情報環境が与える影響の実験的検証,” <em>選挙研究</em>. <a href="https://github.com/gentok/Econ_Ideology" target="_blank">*GitHubリポジトリ*</a>
+
+<a href="https://doi.org/10.1177/0951629820926699" target="_blank">Kato, Gento (2020) “When Strategic Uninformed Abstention Improves Democratic Accountability,” <em>Journal of Theoretical Politics</em>, 32(3), 366-388.</a> <a href="https://github.com/gentok/UninformedModel" target="_blank">*GitHubリポジトリ*</a>
 
 <a href="https://journals.sagepub.com/doi/10.1177/1065912919897837" target="_blank">Kohno, Masaru, Gabriella R. Montinola, Matthew S. Winters, and Gento Kato (2020) “Donor Competition and Public Support for Foreign Aid Sanctions,” <em>Political Research Quarterly</em>.</a> 追加資料: <a href="https://github.com/gentok/donorcompetition" target="_blank"> *Replication Files* </a> 
 
@@ -25,9 +30,6 @@ Kato, Gento (Forthcoming) “When Strategic Uninformed Abstention Improves Democ
 
   * **Can Non-Western University Education Cultivate Immigrant Integration? The Case of Local Enfranchisement for Foreign Residents in Japan** (with Fan Lu)
     * ワーキングペーパー (5/17/2020) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3607550" target="_blank">[Available from SSRN]</a>
-
-  * **日本における「ねじれ」た金融緩和選好を説明する：イデオロギーと政策選好の関係に情報環境が与える影響の実験的検証** (with 安中進) <br> <em> Revised and Resubmitted to Japanese Journal of Electoral Studies</em>
-    * <a href="https://github.com/gentok/Econ_Ideology" target="_blank">GitHubリポジトリ</a> 
 
  * **Local Bandwagoning and National Balancing: How Uninformed Voters Respond to the Partisan Environment**
    * <a href="https://github.com/gentok/UninformedChoice/raw/master/papers/Kato2019loba_v14.pdf" target="_blank">ワーキングペーパー (9/9/2019)</a>
