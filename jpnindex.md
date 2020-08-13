@@ -26,7 +26,7 @@
 
  * **Towards a General Methodology of Bridging Ideological Spaces** (with Tzu-Ping Liu and Samuel Fuller)
    *  (8/8/2020) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3669591" target="_blank">[Available from SSRN]</a>
-   * ワーキングペーパー<a href="https://github.com/tzuliu/Towards-a-General-Methodology-of-Bridging-Ideological-Spaces", target="_blank">GitHubリポジトリ</a> 
+   * ワーキングペーパー<a href="https://github.com/tzuliu/Towards-a-General-Methodology-of-Bridging-Ideological-Spaces" target="_blank">GitHubリポジトリ</a> 
 
   * **Socioeconomic Inequality and COVID-19 Prevalence Across Municipalities in Catalonia, Spain** (with Ryohei Mogi and Susumu Annaka)
     * ワーキングペーパー (5/20/2020) <a href="https://osf.io/preprints/socarxiv/5jgzy?fbclid=IwAR2hudjuz9PBBPm-JxZeX3_2T3q3Qyb5bFtAHx93GWk6Gzr4nfayRBuhxzI" target="_blank">[Available from SocArXiv]</a>
