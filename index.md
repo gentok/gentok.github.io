@@ -4,7 +4,7 @@ Welcome to my website! I am an Assistant Professor in the Department of Politica
 
 ## Peer-Reviewed Publications
 
-Kato, Gento and Susumu Annnaka (Forthcoming) “Explaining 'Twisted' Preferences Toward Monetary Easing in Japan: Experimental Evidence on the Effect of Information Environment on the Relationship Between Ideology and Policy Preferences,” <em>Japanese Journal of Electoral Studies (Senkyo Kenkyu)</em>. In Japanese. <a href="https://github.com/gentok/Econ_Ideology" target="_blank">*GitHub Project Repository*</a>
+Kato, Gento and Susumu Annnaka (2020) “Explaining 'Twisted' Preferences Toward Monetary Easing in Japan: Experimental Evidence on the Effect of Information Environment on the Relationship Between Ideology and Policy Preferences,” <em>Japanese Journal of Electoral Studies (Senkyo Kenkyu)</em>, 36(2), 151-167. In Japanese. <a href="https://github.com/gentok/Econ_Ideology" target="_blank">*GitHub Project Repository*</a>
 
 <a href="https://doi.org/10.1177/0951629820926699" target="_blank">Kato, Gento (2020) “When Strategic Uninformed Abstention Improves Democratic Accountability,” <em>Journal of Theoretical Politics</em>, 32(3), 366-388.</a> <a href="https://github.com/gentok/UninformedModel" target="_blank">*GitHub Project Repository*</a>
 

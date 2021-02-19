@@ -14,7 +14,7 @@
 
 ## 査読付論文
 
-加藤言人・安中進 (近刊予定) “日本における「ねじれ」た金融緩和選好を説明する：イデオロギーと政策選好の関係に情報環境が与える影響の実験的検証,” <em>選挙研究</em>. <a href="https://github.com/gentok/Econ_Ideology" target="_blank">*GitHubリポジトリ*</a>
+加藤言人・安中進 (2020) “日本における「ねじれ」た金融緩和選好を説明する：イデオロギーと政策選好の関係に情報環境が与える影響の実験的検証,” <em>選挙研究</em>, 36(2), 151-167. <a href="https://github.com/gentok/Econ_Ideology" target="_blank">*GitHubリポジトリ*</a>
 
 <a href="https://doi.org/10.1177/0951629820926699" target="_blank">Kato, Gento (2020) “When Strategic Uninformed Abstention Improves Democratic Accountability,” <em>Journal of Theoretical Politics</em>, 32(3), 366-388.</a> <a href="https://github.com/gentok/UninformedModel" target="_blank">*GitHubリポジトリ*</a>
 
