@@ -14,6 +14,13 @@ Kato, Gento and Susumu Annnaka (2020) “Explaining 'Twisted' Preferences Toward
 
 ## Working Projects
 
+ * **Independents and Social Network Environments** (in Japanese)
+   * <a href="https://github.com/gentok/IndepSocNet/raw/main/Indep_SocNet_v2.pdf" target="_blank">Working paper (4/15/2021)</a>
+   * <a href="https://github.com/gentok/IndepSocNet" target="_blank">GitHub Project Repository</a>
+
+ * **Can a Constitutional Monarch Influence Democratic Preferences? The Regulation of Public Expression in Japan** (with Susumu Annaka)
+   * Working paper (4/8/2021) <a href="https://doi.org/10.33774/apsa-2021-fp8q8-v3" target="_blank">[Available from APSA Preprint]</a>
+
  * **Towards a General Methodology of Bridging Ideological Spaces** (with Tzu-Ping Liu and Samuel Fuller)
    * Working paper (8/8/2020) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3669591" target="_blank">[Available from SSRN]</a>
    * <a href="https://github.com/tzuliu/Towards-a-General-Methodology-of-Bridging-Ideological-Spaces" target="_blank">GitHub Project Repository</a> 

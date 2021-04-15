@@ -10,7 +10,7 @@
    2015年3月　早稲田大学大学院政治学研究科政治学コース修士課程　修了 <br>
    2020年6月　カリフォルニア大学デービス校　政治学部博士課程　修了 <br>　
 
-  * 研究関心：国際基督教大学教養学部在籍時から政治学を専攻し、現代政治学、政治心理学、世論研究の分野において研究を行ってきました。特に「民主主義下における市民の意見の代表メカニズム」を巡るテーマに関心を持っています。具体的には、メディアの報道内容報道が政治意見、政治参加に与える影響、政治知識・政治的洗練度の測定方法や決定要因、そして政治行動・意見の形成プロセスなどについて分析を行いました。修士課程では、世論調査の意見設問に対する「わからない回答」や、質問されてから回答するまでにかかる「回答時間」などから政治的洗練の度合いを測定し、政治参加を説明しました。博士課程からは、低情報下の政治行動を説明する要因に注目して研究を行っています。
+  * 研究関心：国際基督教大学教養学部在籍時から政治学を専攻し、現代政治学、政治心理学、世論研究の分野において研究を行ってきました。特に「民主主義下における市民の意見の代表メカニズム」を巡るテーマに関心を持っています。具体的には、メディアの報道内容報道が政治意見、政治参加に与える影響、政治知識・政治的洗練度の測定方法や決定要因、そして政治行動・意見の形成プロセスなどについて分析を行いました。修士課程では、世論調査の意見設問に対する「わからない回答」や、質問されてから回答するまでにかかる「回答時間」などから政治的洗練の度合いを測定し、政治参加を説明しました。博士課程以降は、低情報下の政治行動を説明する要因、また情報環境が政治行動・態度の形成に与える影響に注目して研究を行っています。
 
 ## 査読付論文
 
@@ -24,9 +24,16 @@
 
 ## 現在進行中の研究プロジェクト
 
+ * **無党派層とソーシャルネットワーク環境**
+   * <a href="https://github.com/gentok/IndepSocNet/raw/main/Indep_SocNet_v2.pdf" target="_blank">ワーキングペーパー (4/15/2021)</a>
+   * <a href="https://github.com/gentok/IndepSocNet" target="_blank">GitHubリポジトリ</a>
+
+ * **Can a Constitutional Monarch Influence Democratic Preferences? The Regulation of Public Expression in Japan** (with Susumu Annaka)
+   * ワーキングペーパー (4/8/2021) <a href="https://doi.org/10.33774/apsa-2021-fp8q8-v3" target="_blank">[Available from APSA Preprint]</a>
+
  * **Towards a General Methodology of Bridging Ideological Spaces** (with Tzu-Ping Liu and Samuel Fuller)
-   *  (8/8/2020) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3669591" target="_blank">[Available from SSRN]</a>
-   * ワーキングペーパー<a href="https://github.com/tzuliu/Towards-a-General-Methodology-of-Bridging-Ideological-Spaces" target="_blank">GitHubリポジトリ</a> 
+   * ワーキングペーパー (8/8/2020) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3669591" target="_blank">[Available from SSRN]</a>
+   * <a href="https://github.com/tzuliu/Towards-a-General-Methodology-of-Bridging-Ideological-Spaces" target="_blank">GitHubリポジトリ</a> 
 
   * **Socioeconomic Inequality and COVID-19 Prevalence Across Municipalities in Catalonia, Spain** (with Ryohei Mogi and Susumu Annaka)
     * ワーキングペーパー (5/20/2020) <a href="https://osf.io/preprints/socarxiv/5jgzy?fbclid=IwAR2hudjuz9PBBPm-JxZeX3_2T3q3Qyb5bFtAHx93GWk6Gzr4nfayRBuhxzI" target="_blank">[Available from SocArXiv]</a>
