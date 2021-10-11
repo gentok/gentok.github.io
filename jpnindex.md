@@ -3,7 +3,8 @@
  * 名前：加藤言人（Kato, Gento）
 
  * 職歴： <br>
-   2020年8月- ナザルバエフ大学 講師
+   2020年8月- ナザルバエフ大学政治国際関係学部 助教授
+   2021年9月-2022年5月(予定) イェール大学東アジア研究所 博士研究員
 
  * 学歴：<br>
    2012年3月　国際基督教大学教養学部アーツ・サイエンス学科　修了 <br>
@@ -14,19 +15,21 @@
 
 ## 査読付論文
 
-加藤言人・安中進 (2020) “日本における「ねじれ」た金融緩和選好を説明する：イデオロギーと政策選好の関係に情報環境が与える影響の実験的検証,” <em>選挙研究</em>, 36(2), 151-167. <a href="https://github.com/gentok/Econ_Ideology" target="_blank">*GitHubリポジトリ*</a>
+安中進・鈴木淳平・**加藤言人** (近刊予定) “福祉国家に対する態度決定要因としての普遍的社会保障と逆進課税：消費増税に関するサーヴェイ実験,” <em>年報政治学</em>. {<a href="https://doi.org/10.7910/DVN/F6PSMI" target="_blank">レプリケーションファイル</a>}
 
-<a href="https://doi.org/10.1177/0951629820926699" target="_blank">Kato, Gento (2020) “When Strategic Uninformed Abstention Improves Democratic Accountability,” <em>Journal of Theoretical Politics</em>, 32(3), 366-388.</a> <a href="https://github.com/gentok/UninformedModel" target="_blank">*GitHubリポジトリ*</a>
+**加藤言人**・安中進 (2020) “日本における「ねじれ」た金融緩和選好を説明する：イデオロギーと政策選好の関係に情報環境が与える影響の実験的検証,” <em>選挙研究, 36(2)</em>, 151-167. {<a href="https://github.com/gentok/Econ_Ideology" target="_blank">レプリケーションファイル</a>}
 
-<a href="https://journals.sagepub.com/doi/10.1177/1065912919897837" target="_blank">Kohno, Masaru, Gabriella R. Montinola, Matthew S. Winters, and Gento Kato (2020) “Donor Competition and Public Support for Foreign Aid Sanctions,” <em>Political Research Quarterly</em>.</a> 追加資料: <a href="https://github.com/gentok/donorcompetition" target="_blank"> *Replication Files* </a> 
+**Kato, Gento** (2020) “When Strategic Uninformed Abstention Improves Democratic Accountability,” <em>Journal of Theoretical Politics, 32(3)</em>, 366-388. {<a href="https://doi.org/10.1177/0951629820926699" target="_blank">Article Link</a>; <a href="https://github.com/gentok/UninformedModel" target="_blank">Online Appendix</a>}
 
-<a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9161950&fileId=S1468109913000339" target="_blank">Collet, Christian and Gento Kato (2014). Does NHK Make You Smarter (and Super News Make You ‘Softer’)? An Examination of Japanese Political Knowledge and the Potential Influence of TV News. <em>Japanese Journal of Political Science</em>, 15(01), 23-50.</a> 追加資料: <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Appendix-Collet-Kato-2014.pdf" target="_blank"> *Online Appendix*</a>
+Kohno, Masaru, Gabriella R. Montinola, Matthew S. Winters, and **Gento Kato** (2021) “Donor Competition and Public Support for Foreign Aid Sanctions,” <em>Political Research Quarterly, 74(1)</em>, 212-227. (Published online first February 17, 2020) {<a href="https://journals.sagepub.com/doi/10.1177/1065912919897837" target="_blank">Article Link</a>; <a href="https://github.com/gentok/donorcompetition" target="_blank">Replication Files</a>}
+
+Collet, Christian and **Gento Kato** (2014) "Does NHK Make You Smarter (and Super News Make You ‘Softer’)? An Examination of Japanese Political Knowledge and the Potential Influence of TV News," <em>Japanese Journal of Political Science</em>, 15(01), 23-50. {<a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9161950&fileId=S1468109913000339" target="_blank">Article Link</a>; <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Appendix-Collet-Kato-2014.pdf" target="_blank">Online Appendix</a>}
+
+## その他の著作物
+
+**加藤言人** (近刊予定) "無党派層とソーシャルネットワーク環境," 田中愛治 (監) 遠藤晶久・三村憲弘・山崎新 (編) <em>無党派層の研究（仮題）</em>, 有斐閣. {<a href="https://github.com/gentok/IndepSocNet/raw/main/Indep_SocNet_v2.pdf" target="_blank">ワーキングペーパー (4/15/2021)</a>; <a href="https://github.com/gentok/IndepSocNet" target="_blank">レプリケーションファイル</a>}
 
 ## 現在進行中の研究プロジェクト
-
- * **無党派層とソーシャルネットワーク環境**
-   * <a href="https://github.com/gentok/IndepSocNet/raw/main/Indep_SocNet_v2.pdf" target="_blank">ワーキングペーパー (4/15/2021)</a>
-   * <a href="https://github.com/gentok/IndepSocNet" target="_blank">GitHubリポジトリ</a>
 
  * **Can a Constitutional Monarch Influence Democratic Preferences? The Regulation of Public Expression in Japan** (with Susumu Annaka)
    * ワーキングペーパー (4/8/2021) <a href="https://doi.org/10.33774/apsa-2021-fp8q8-v3" target="_blank">[Available from APSA Preprint]</a>
