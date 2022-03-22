@@ -4,6 +4,8 @@ Welcome to my website! I am an Assistant Professor at the Department of Politica
 
 ## Peer-Reviewed Publications
 
+Annaka, Susumu and  **Gento Kato** (Forthcoming) “Can a Constitutional Monarch Influence Democratic Preferences? The Regulation of Public Expression in Japan,” <em>Social Science Quarterly</em>. Joint First Author. {<a href="https://doi.org/10.33774/apsa-2021-fp8q8-v3" target="_blank">Working paper (4/8/2021)</a>; <a href="https://doi.org/10.7910/DVN/OOIRHH" target="_blank">Replication Files</a>}
+
 Annaka, Susumu, Junpei Suzuki, and **Gento Kato** (Forthcoming) “Universalist Social Benefit and Regressive Taxation as Determinants of Welfare State Support: Survey Experiment on Consumption Tax Hike in Japan,” <em>The Annals of Japanese Political Science Association (Nenpo Seijigaku)</em>. In Japanese. {<a href="https://doi.org/10.7910/DVN/F6PSMI" target="_blank">Replication Files</a>}
 
 **Kato, Gento** and Susumu Annnaka (2020) “Explaining 'Twisted' Preferences Toward Monetary Easing in Japan: Experimental Evidence on the Effect of Information Environment on the Relationship Between Ideology and Policy Preferences,” <em>Japanese Journal of Electoral Studies (Senkyo Kenkyu), 36(2)</em>, 151-167. In Japanese. {<a href="https://github.com/gentok/Econ_Ideology" target="_blank">Replication Files</a>}
@@ -19,9 +21,6 @@ Collet, Christian and **Gento Kato** (2014) "Does NHK Make You Smarter (and Supe
 **Kato, Gento** (Forthcoming) “Mutohaso to Sosharu Nettowaku Kankyo [Independents and Social Network Environments],” In Aiji Tanaka, Masahisa Endo, Norihiro Mimura, and Arata Yamazaki eds. <em>Mutohaso no Kenkyu [Study of Independents in Japan] (temporal title)</em>, Tokyo: Yuhikaku. In Japanese. {<a href="https://github.com/gentok/IndepSocNet/raw/main/Indep_SocNet_v2.pdf" target="_blank">Working paper (4/15/2021)</a>; <a href="https://github.com/gentok/IndepSocNet" target="_blank">Replication Files</a>}
 
 ## Working Projects
-
- * **Can a Constitutional Monarch Influence Democratic Preferences? The Regulation of Public Expression in Japan** (with Susumu Annaka)
-   * Working paper (4/8/2021) <a href="https://doi.org/10.33774/apsa-2021-fp8q8-v3" target="_blank">[Available from APSA Preprint]</a>
 
  * **Towards a General Methodology of Bridging Ideological Spaces** (with Tzu-Ping Liu and Samuel Fuller)
    * Working paper (8/8/2020) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3669591" target="_blank">[Available from SSRN]</a>
