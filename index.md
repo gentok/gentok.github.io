@@ -4,7 +4,9 @@ Welcome to my website! I am an Assistant Professor at the Department of Politica
 
 ## Peer-Reviewed Publications
 
-Annaka, Susumu and  **Gento Kato** (Forthcoming) “Can a Constitutional Monarch Influence Democratic Preferences? The Regulation of Public Expression in Japan,” <em>Social Science Quarterly</em>. Joint First Author. {<a href="https://doi.org/10.33774/apsa-2021-fp8q8-v3" target="_blank">Working paper (4/8/2021)</a>; <a href="https://doi.org/10.7910/DVN/OOIRHH" target="_blank">Replication Files</a>}
+
+
+Annaka, Susumu and  **Gento Kato** (2022) “Can a Constitutional Monarch Influence Democratic Preferences? The Regulation of Public Expression in Japan,” <em>Social Science Quarterly</em>. Joint first author. (Published online first April 27, 2022). {<a href="https://doi.org/10.1111/ssqu.13152" target="_blank">Article Link</a>;{<a href="https://doi.org/10.33774/apsa-2021-fp8q8-v3" target="_blank">Working paper (4/8/2021)</a>; <a href="https://doi.org/10.7910/DVN/OOIRHH" target="_blank">Replication Files</a>}
 
 Annaka, Susumu, Junpei Suzuki, and **Gento Kato** (Forthcoming) “Universalist Social Benefit and Regressive Taxation as Determinants of Welfare State Support: Survey Experiment on Consumption Tax Hike in Japan,” <em>The Annals of Japanese Political Science Association (Nenpo Seijigaku)</em>. In Japanese. {<a href="https://doi.org/10.7910/DVN/F6PSMI" target="_blank">Replication Files</a>}
 
@@ -12,7 +14,7 @@ Annaka, Susumu, Junpei Suzuki, and **Gento Kato** (Forthcoming) “Universalist 
 
 **Kato, Gento** (2020) “When Strategic Uninformed Abstention Improves Democratic Accountability,” <em>Journal of Theoretical Politics, 32(3)</em>, 366-388. {<a href="https://doi.org/10.1177/0951629820926699" target="_blank">Article Link</a>; <a href="https://github.com/gentok/UninformedModel" target="_blank">Online Appendix</a>}
 
-Kohno, Masaru, Gabriella R. Montinola, Matthew S. Winters, and **Gento Kato** (2021) “Donor Competition and Public Support for Foreign Aid Sanctions,” <em>Political Research Quarterly, 74(1)</em>, 212-227. (Published online first February 17, 2020) {<a href="https://journals.sagepub.com/doi/10.1177/1065912919897837" target="_blank">Article Link</a>; <a href="https://github.com/gentok/donorcompetition" target="_blank">Replication Files</a>}
+Kohno, Masaru, Gabriella R. Montinola, Matthew S. Winters, and **Gento Kato** (2021) “Donor Competition and Public Support for Foreign Aid Sanctions,” <em>Political Research Quarterly, 74(1)</em>, 212-227. (Published online first February 17, 2020). {<a href="https://journals.sagepub.com/doi/10.1177/1065912919897837" target="_blank">Article Link</a>; <a href="https://github.com/gentok/donorcompetition" target="_blank">Replication Files</a>}
 
 Collet, Christian and **Gento Kato** (2014) "Does NHK Make You Smarter (and Super News Make You ‘Softer’)? An Examination of Japanese Political Knowledge and the Potential Influence of TV News," <em>Japanese Journal of Political Science</em>, 15(01), 23-50. {<a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9161950&fileId=S1468109913000339" target="_blank">Article Link</a>; <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Appendix-Collet-Kato-2014.pdf" target="_blank">Online Appendix</a>}
 
