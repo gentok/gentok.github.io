@@ -6,7 +6,7 @@ Welcome to my website! I am an Assistant Professor at the Department of Politica
 
 
 
-Annaka, Susumu and  **Gento Kato** (2022) “Can a Constitutional Monarch Influence Democratic Preferences? The Regulation of Public Expression in Japan,” <em>Social Science Quarterly</em>. Joint first author. (Published online first April 27, 2022). {<a href="https://doi.org/10.1111/ssqu.13152" target="_blank">Article Link</a>;{<a href="https://doi.org/10.33774/apsa-2021-fp8q8-v3" target="_blank">Working paper (4/8/2021)</a>; <a href="https://doi.org/10.7910/DVN/OOIRHH" target="_blank">Replication Files</a>}
+Annaka, Susumu and  **Gento Kato** (2022) “Can a Constitutional Monarch Influence Democratic Preferences? The Regulation of Public Expression in Japan,” <em>Social Science Quarterly</em>. Joint first author. (Published online first April 27, 2022). {<a href="https://doi.org/10.1111/ssqu.13152" target="_blank">Article Link</a>; <a href="https://doi.org/10.33774/apsa-2021-fp8q8-v3" target="_blank">Working paper (4/8/2021)</a>; <a href="https://doi.org/10.7910/DVN/OOIRHH" target="_blank">Replication Files</a>}
 
 Annaka, Susumu, Junpei Suzuki, and **Gento Kato** (Forthcoming) “Universalist Social Benefit and Regressive Taxation as Determinants of Welfare State Support: Survey Experiment on Consumption Tax Hike in Japan,” <em>The Annals of Japanese Political Science Association (Nenpo Seijigaku)</em>. In Japanese. {<a href="https://doi.org/10.7910/DVN/F6PSMI" target="_blank">Replication Files</a>}
 
