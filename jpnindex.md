@@ -15,9 +15,9 @@
 
 ## 査読付論文
 
-Annaka, Susumu and  **Gento Kato** (2022) “Can a Constitutional Monarch Influence Democratic Preferences? The Regulation of Public Expression in Japan,” <em>Social Science Quarterly</em>. Joint first author. (Published online first April 27, 2022). {<a href="https://doi.org/10.1111/ssqu.13152" target="_blank">Article Link</a>; <a href="https://doi.org/10.33774/apsa-2021-fp8q8-v3" target="_blank">Working paper (4/8/2021)</a>; <a href="https://doi.org/10.7910/DVN/OOIRHH" target="_blank">Replication Files</a>}
+Annaka, Susumu and  **Gento Kato** (2022) “Can a Constitutional Monarch Influence Democratic Preferences? The Regulation of Public Expression in Japan,” <em>Social Science Quarterly, 103(3)</em>, 699-708. Joint first author. {<a href="https://doi.org/10.1111/ssqu.13152" target="_blank">Article Link</a>; <a href="https://doi.org/10.33774/apsa-2021-fp8q8-v3" target="_blank">Working paper (4/8/2021)</a>; <a href="https://doi.org/10.7910/DVN/OOIRHH" target="_blank">Replication Files</a>}
 
-安中進・鈴木淳平・**加藤言人** (近刊予定) “福祉国家に対する態度決定要因としての普遍的社会保障と逆進課税：消費増税に関するサーヴェイ実験,” <em>年報政治学</em>. {<a href="https://doi.org/10.7910/DVN/F6PSMI" target="_blank">レプリケーションファイル</a>}
+安中進・鈴木淳平・**加藤言人** (2022) “福祉国家に対する態度決定要因としての普遍的社会保障と逆進課税：消費増税に関するサーヴェイ実験,” <em>年報政治学, 2022-I</em>, 212-235. {<a href="https://doi.org/10.7910/DVN/F6PSMI" target="_blank">レプリケーションファイル</a>}
 
 **加藤言人**・安中進 (2020) “日本における「ねじれ」た金融緩和選好を説明する：イデオロギーと政策選好の関係に情報環境が与える影響の実験的検証,” <em>選挙研究, 36(2)</em>, 151-167. {<a href="https://github.com/gentok/Econ_Ideology" target="_blank">レプリケーションファイル</a>}
 
