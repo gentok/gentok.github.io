@@ -4,14 +4,14 @@
 
  * 職歴： <br>
    2020年8月- ナザルバエフ大学政治国際関係学部 助教授<br>
-   2021年9月-2022年5月(予定) イェール大学東アジア研究所 博士研究員
+   2021年9月-2022年5月 イェール大学東アジア研究所 博士研究員
 
  * 学歴：<br>
    2012年3月　国際基督教大学教養学部アーツ・サイエンス学科　修了 <br>
    2015年3月　早稲田大学大学院政治学研究科政治学コース修士課程　修了 <br>
    2020年6月　カリフォルニア大学デービス校　政治学部博士課程　修了 <br>　
 
-  * 研究関心：国際基督教大学教養学部在籍時から政治学を専攻し、現代政治学、政治心理学、世論研究の分野において研究を行ってきました。特に「民主主義下における市民の意見の代表メカニズム」を巡るテーマに関心を持っています。具体的には、メディアの報道内容報道が政治意見、政治参加に与える影響、政治知識・政治的洗練度の測定方法や決定要因、そして政治行動・意見の形成プロセスなどについて分析を行いました。修士課程では、世論調査の意見設問に対する「わからない回答」や、質問されてから回答するまでにかかる「回答時間」などから政治的洗練の度合いを測定し、政治参加を説明しました。博士課程以降は、低情報下の政治行動を説明する要因、また情報環境が政治行動・態度の形成に与える影響に注目して研究を行っています。
+  * 研究関心：国際基督教大学教養学部在籍時から政治学を専攻し、現代政治学、政治心理学、世論研究の分野において研究を行ってきました。特に「民主主義下における市民の意見の代表メカニズム」を巡るテーマに関心を持っています。具体的には、メディアの報道内容報道が政治意見、政治参加に与える影響、政治知識・政治的洗練度の測定方法や決定要因、そして政治行動・意見の形成プロセスなどについて分析を行いました。修士課程では、世論調査の意見設問に対する「わからない回答」や、質問されてから回答するまでにかかる「回答時間」などから政治的洗練の度合いを測定し、政治参加を説明しました。博士課程以降は、低情報下の政治行動を説明する要因、また情報環境・アイデンティティが政治行動・態度の形成に与える影響に注目して研究を行っています。
 
 ## 査読付論文
 
@@ -28,6 +28,8 @@ Kohno, Masaru, Gabriella R. Montinola, Matthew S. Winters, and **Gento Kato** (2
 Collet, Christian and **Gento Kato** (2014) "Does NHK Make You Smarter (and Super News Make You ‘Softer’)? An Examination of Japanese Political Knowledge and the Potential Influence of TV News," <em>Japanese Journal of Political Science</em>, 15(01), 23-50. {<a href="http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=9161950&fileId=S1468109913000339" target="_blank">Article Link</a>; <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Appendix-Collet-Kato-2014.pdf" target="_blank">Online Appendix</a>}
 
 ## その他の著作物
+
+Endo, Masahisa and **Gento Kato** (2022) “Social Values and Mask-wearing Behaviour During the COVID-19 Pandemic in Japan,” In Noriko Suzuki, Xavier Mellet, Susumu Annaka and Masahisa Endo eds. <em>Public Behavioural Responses to Policy Making during the Pandemic: Comparative Perspectives on Mask Wearing Policies</em>, Routledge. {<a href="https://www.routledge.com/Public-Behavioural-Responses-to-Policy-Making-during-the-Pandemic-Comparative/Suzuki-Mellet-Annaka-Endo/p/book/9781032154275", target="_blank">Book Link</a>}
 
 **加藤言人** (近刊予定) "無党派層とソーシャルネットワーク環境," 田中愛治 (監) 遠藤晶久・三村憲弘・山崎新 (編) <em>無党派層の研究（仮題）</em>, 有斐閣. {<a href="https://github.com/gentok/IndepSocNet/raw/main/Indep_SocNet_v2.pdf" target="_blank">ワーキングペーパー (4/15/2021)</a>; <a href="https://github.com/gentok/IndepSocNet" target="_blank">レプリケーションファイル</a>}
 
