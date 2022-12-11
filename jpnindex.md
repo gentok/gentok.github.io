@@ -29,7 +29,7 @@ Collet, Christian and **Gento Kato** (2014) "Does NHK Make You Smarter (and Supe
 
 ## その他の著作物
 
-Endo, Masahisa and **Gento Kato** (2022) “Social Values and Mask-wearing Behaviour During the COVID-19 Pandemic in Japan,” In Noriko Suzuki, Xavier Mellet, Susumu Annaka and Masahisa Endo eds. <em>Public Behavioural Responses to Policy Making during the Pandemic: Comparative Perspectives on Mask Wearing Policies</em>, Routledge. {<a href="https://www.routledge.com/Public-Behavioural-Responses-to-Policy-Making-during-the-Pandemic-Comparative/Suzuki-Mellet-Annaka-Endo/p/book/9781032154275", target="_blank">Book Link</a>}
+Endo, Masahisa and **Gento Kato** (2022) “Social Values and Mask-wearing Behaviour During the COVID-19 Pandemic in Japan,” In Noriko Suzuki, Xavier Mellet, Susumu Annaka and Masahisa Endo eds. <em>Public Behavioural Responses to Policy Making during the Pandemic: Comparative Perspectives on Mask Wearing Policies</em>, Routledge. {<a href="https://www.routledge.com/Public-Behavioural-Responses-to-Policy-Making-during-the-Pandemic-Comparative/Suzuki-Mellet-Annaka-Endo/p/book/9781032154275" target="_blank">Book Link</a>}
 
 **加藤言人** (近刊予定) "無党派層とソーシャルネットワーク環境," 田中愛治 (監) 遠藤晶久・三村憲弘・山崎新 (編) <em>無党派層の研究（仮題）</em>, 有斐閣. {<a href="https://github.com/gentok/IndepSocNet/raw/main/Indep_SocNet_v2.pdf" target="_blank">ワーキングペーパー (4/15/2021)</a>; <a href="https://github.com/gentok/IndepSocNet" target="_blank">レプリケーションファイル</a>}
 
