@@ -33,12 +33,8 @@ Endo, Masahisa and **Gento Kato** (2022) “Social Values and Mask-wearing Behav
  * **Socioeconomic Inequality and COVID-19 Prevalence Across Municipalities in Catalonia, Spain** (with Ryohei Mogi and Susumu Annaka) 
    * Working paper (5/20/2020) <a href="https://osf.io/preprints/socarxiv/5jgzy?fbclid=IwAR2hudjuz9PBBPm-JxZeX3_2T3q3Qyb5bFtAHx93GWk6Gzr4nfayRBuhxzI" target="_blank">[Available from SocArXiv]</a>
    * <a href="https://github.com/gentok/covid19spain" target="_blank">GitHub Project Repository</a>
- 
- <!--- 
- * **In Japan, University Education Does Not Increase Support for Immigrant Integration** (with Fan Lu)
-   * Working paper (2/8/2021) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3607550" target="_blank">[Available from SSRN]</a>
-    * <a href="https://github.com/gentok/ForeignerJapan" target="_blank">GitHub Project Repository</a> 
---->
+
+<!-- * **In Japan, University Education Does Not Increase Support for Immigrant Integration** (with Fan Lu) * Working paper (2/8/2021) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3607550" target="_blank">[Available from SSRN]</a> * <a href="https://github.com/gentok/ForeignerJapan" target="_blank">GitHub Project Repository</a>  -->
 
  * **Local Bandwagoning and National Balancing: How Uninformed Voters Respond to the Partisan Environment**
    * <a href="https://github.com/gentok/UninformedChoice/raw/master/papers/Kato2019loba_v14.pdf" target="_blank">Working paper (9/9/2019)</a>
