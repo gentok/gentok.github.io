@@ -2,11 +2,13 @@
 
 ### Instructor
 
+* **PLS434/534: Text Analysis and Political Communication in the Information Age** (Spring 2023 @ Nazarbayev University)
+* **PLS140: Introduction to Comparative Politics** (Fall 2022 @ Nazarbayev University)
 * **PLSC162/678: Japan and the World** (Fall 2021 @ Yale University)
 * **PLS416/516: Experimental Political Science** (Spring 2021 @ Nazarbayev University)
 * **PLS211: Quantitative Methods** (Spring 2021 @ Nazarbayev University)
-* **PLS415/515: Maximum Likelihood Models** (Fall 2020 @ Nazarbayev University)
-* **PLS312: Public Opinion and Elections** (Fall 2020 @ Nazarbayev University)
+* **PLS415/515: Maximum Likelihood Models** (Fall 2020/Fall 2022 @ Nazarbayev University)
+* **PLS312: Public Opinion and Elections** (Fall 2020/Spring 2023 @ Nazarbayev University)
 * **POL051: Scientific Study of Politics** (Spring 2018 @ UC Davis)
 
 ### Teaching Assistant (Lab Session Materials)
