@@ -45,11 +45,11 @@ Endo, Masahisa and **Gento Kato** (2022) “Social Values and Mask-wearing Behav
     * ワーキングペーパー (5/20/2020) <a href="https://osf.io/preprints/socarxiv/5jgzy?fbclid=IwAR2hudjuz9PBBPm-JxZeX3_2T3q3Qyb5bFtAHx93GWk6Gzr4nfayRBuhxzI" target="_blank">[Available from SocArXiv]</a>
     * <a href="https://github.com/gentok/covid19spain" target="_blank">GitHubリポジトリ</a> 
 
-<!-- 
+<!--- 
 * **In Japan, University Education Does Not Increase Support for Immigrant Integration** (with Fan Lu)
     * ワーキングペーパー (2/8/2020) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3607550" target="_blank">[Available from SSRN]</a>
     * <a href="https://github.com/gentok/ForeignerJapan" target="_blank">GitHubリポジトリ</a> 
--->
+--->
 
  * **Local Bandwagoning and National Balancing: How Uninformed Voters Respond to the Partisan Environment**
    * <a href="https://github.com/gentok/UninformedChoice/raw/master/papers/Kato2019loba_v14.pdf" target="_blank">ワーキングペーパー (9/9/2019)</a>
