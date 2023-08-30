@@ -15,6 +15,8 @@
 
 ## 査読付論文
 
+**Kato, Gento** and Fan Lu (Forthcoming) “The Relationship between University Education and Pro-Immigrant Attitudes Varies by Generation: Insights from Japan,” <em>International Journal of Public Opinion Research</em>. {<a href="https://github.com/gentok/gentok.github.io/raw/master/files/v7.2.1x_foreignerjapan_preprint_main.pdf" target="_blank">Accepted Version (08/23/2023)</a>; <a href="https://github.com/gentok/gentok.github.io/raw/master/files/v7.2_foreignerjapan_final_appendix.pdf" target="_blank">Online Appendix</a>; <a href="https://doi.org/10.7910/DVN/LPGU97" target="_blank">Replication Files</a>}
+
 Annaka, Susumu and  **Gento Kato** (2022) “Can a Constitutional Monarch Influence Democratic Preferences? The Regulation of Public Expression in Japan,” <em>Social Science Quarterly, 103(3)</em>, 699-708. Joint first author. {<a href="https://doi.org/10.1111/ssqu.13152" target="_blank">Article Link</a>; <a href="https://doi.org/10.33774/apsa-2021-fp8q8-v3" target="_blank">Working paper (4/8/2021)</a>; <a href="https://doi.org/10.7910/DVN/OOIRHH" target="_blank">Replication Files</a>}
 
 安中進・鈴木淳平・**加藤言人** (2022) “福祉国家に対する態度決定要因としての普遍的社会保障と逆進課税：消費増税に関するサーヴェイ実験,” <em>年報政治学, 2022-I</em>, 212-235. {<a href="https://doi.org/10.7910/DVN/F6PSMI" target="_blank">レプリケーションファイル</a>}
@@ -39,13 +41,13 @@ Endo, Masahisa and **Gento Kato** (2022) “Social Values and Mask-wearing Behav
    * ワーキングペーパー (8/8/2020) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3669591" target="_blank">[Available from SSRN]</a>
    * <a href="https://github.com/tzuliu/Towards-a-General-Methodology-of-Bridging-Ideological-Spaces" target="_blank">GitHubリポジトリ</a> 
 
-  * **Socioeconomic Inequality and COVID-19 Prevalence Across Municipalities in Catalonia, Spain** (with Ryohei Mogi and Susumu Annaka)
+ * **Socioeconomic Inequality and COVID-19 Prevalence Across Municipalities in Catalonia, Spain** (with Ryohei Mogi and Susumu Annaka)
     * ワーキングペーパー (5/20/2020) <a href="https://osf.io/preprints/socarxiv/5jgzy?fbclid=IwAR2hudjuz9PBBPm-JxZeX3_2T3q3Qyb5bFtAHx93GWk6Gzr4nfayRBuhxzI" target="_blank">[Available from SocArXiv]</a>
-    * <a href="https://github.com/gentok/covid19spain" target="_blank">GitHubリポジトリ</a>
+    * <a href="https://github.com/gentok/covid19spain" target="_blank">GitHubリポジトリ</a> 
 
-  * **In Japan, University Education Does Not Increase Support for Immigrant Integration** (with Fan Lu)
+  <!-- * **In Japan, University Education Does Not Increase Support for Immigrant Integration** (with Fan Lu)
     * ワーキングペーパー (2/8/2020) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3607550" target="_blank">[Available from SSRN]</a>
-    * <a href="https://github.com/gentok/ForeignerJapan" target="_blank">GitHubリポジトリ</a>
+    * <a href="https://github.com/gentok/ForeignerJapan" target="_blank">GitHubリポジトリ</a> !-->
 
  * **Local Bandwagoning and National Balancing: How Uninformed Voters Respond to the Partisan Environment**
    * <a href="https://github.com/gentok/UninformedChoice/raw/master/papers/Kato2019loba_v14.pdf" target="_blank">ワーキングペーパー (9/9/2019)</a>
@@ -81,4 +83,4 @@ Endo, Masahisa and **Gento Kato** (2022) “Social Values and Mask-wearing Behav
 
 ## 連絡先
 
-E-mail Address: gento.badger@gmail.com
+E-mail Address: gento.badger[AT]gmail.com

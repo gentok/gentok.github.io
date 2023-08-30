@@ -1,8 +1,10 @@
 ## Introduction
 
-Welcome to my website! I am an Assistant Professor at the Department of Political Science and International Relations at Nazarbayev University located in Nur-Sultan, Kazakhstan. I also served as a postdoctoral associate at the Council on East Asian Studies at Yale University during 2021-22. My research falls within the areas of Political Behavior, Political Psychology, Formal Modelling, and Quantitative Methodologies. Specifically, I am interested in the connection between political information and group identity and the mechanism of political decision-making and attitude formation. I received a Ph.D. in political science from the University of California, Davis. I also received a M.A. in political science from Waseda University and a B.A. in politics from International Christian University, Tokyo. Prior to entering college, I grew up in Kobe, a port city located in Western Japan. My works have appeared in *Journal of Theoretical Politics*, *Political Research Quarterly*, and *Social Science Quarterly*, among other peer-reviewed journals.
+Welcome to my website! I am an Assistant Professor at the Department of Political Science and International Relations at Nazarbayev University located in Nur-Sultan, Kazakhstan. I also served as a postdoctoral associate at the Council on East Asian Studies at Yale University during 2021-22. My research falls within the areas of Political Behavior, Political Psychology, Formal Modelling, and Quantitative Methodologies. Specifically, I am interested in the connection between political information and group identity and the mechanism of political decision-making and attitude formation. I received a Ph.D. in political science from the University of California, Davis. I also received a M.A. in political science from Waseda University and a B.A. in politics from International Christian University, Tokyo. Prior to entering college, I grew up in Kobe, a port city located in Western Japan. My works have appeared in *Journal of Theoretical Politics*, *Political Research Quarterly*, *International Journal of Public Opinion Research* and *Social Science Quarterly*, among other peer-reviewed journals.
 
 ## Peer-Reviewed Publications
+
+**Kato, Gento** and Fan Lu (Forthcoming) “The Relationship between University Education and Pro-Immigrant Attitudes Varies by Generation: Insights from Japan,” <em>International Journal of Public Opinion Research</em>. {<a href="https://github.com/gentok/gentok.github.io/raw/master/files/v7.2.1x_foreignerjapan_preprint_main.pdf" target="_blank">Accepted Version (08/23/2023)</a>; <a href="https://github.com/gentok/gentok.github.io/raw/master/files/v7.2_foreignerjapan_final_appendix.pdf" target="_blank">Online Appendix</a>; <a href="https://doi.org/10.7910/DVN/LPGU97" target="_blank">Replication Files</a>}
 
 Annaka, Susumu and  **Gento Kato** (2022) “Can a Constitutional Monarch Influence Democratic Preferences? The Regulation of Public Expression in Japan,” <em>Social Science Quarterly, 103(3)</em>, 699-708. Joint first author. {<a href="https://doi.org/10.1111/ssqu.13152" target="_blank">Article Link</a>; <a href="https://doi.org/10.33774/apsa-2021-fp8q8-v3" target="_blank">Working paper (4/8/2021)</a>; <a href="https://doi.org/10.7910/DVN/OOIRHH" target="_blank">Replication Files</a>}
 
@@ -32,9 +34,9 @@ Endo, Masahisa and **Gento Kato** (2022) “Social Values and Mask-wearing Behav
    * Working paper (5/20/2020) <a href="https://osf.io/preprints/socarxiv/5jgzy?fbclid=IwAR2hudjuz9PBBPm-JxZeX3_2T3q3Qyb5bFtAHx93GWk6Gzr4nfayRBuhxzI" target="_blank">[Available from SocArXiv]</a>
    * <a href="https://github.com/gentok/covid19spain" target="_blank">GitHub Project Repository</a>
  
- * **In Japan, University Education Does Not Increase Support for Immigrant Integration** (with Fan Lu)
+ <!-- * **In Japan, University Education Does Not Increase Support for Immigrant Integration** (with Fan Lu)
    * Working paper (2/8/2021) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3607550" target="_blank">[Available from SSRN]</a>
-    * <a href="https://github.com/gentok/ForeignerJapan" target="_blank">GitHub Project Repository</a>
+    * <a href="https://github.com/gentok/ForeignerJapan" target="_blank">GitHub Project Repository</a> !-->
 
  * **Local Bandwagoning and National Balancing: How Uninformed Voters Respond to the Partisan Environment**
    * <a href="https://github.com/gentok/UninformedChoice/raw/master/papers/Kato2019loba_v14.pdf" target="_blank">Working paper (9/9/2019)</a>
@@ -59,4 +61,4 @@ Endo, Masahisa and **Gento Kato** (2022) “Social Values and Mask-wearing Behav
 
 ## Contact
 
-E-mail Address: gento.badger@gmail.com
+E-mail Address: gento.badger[AT]gmail.com
