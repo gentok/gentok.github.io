@@ -1,10 +1,10 @@
 ## Teaching
 
-### Cemniar
+### Seminar
 
 * 2024-25 @ Meiji University (Expected)
 
-  * [ゼミ概要＋身上書フォーマット](https://github.com/gentok/gentok.github.io/raw/master/files/ceminarinfo_and_shinjosho.pdf)
+  * [ゼミ概要＋身上書フォーマット](https://github.com/gentok/gentok.github.io/raw/master/files/seminarinfo_and_shinjosho.pdf)
 
 ### Instructor
 
