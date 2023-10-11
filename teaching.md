@@ -1,7 +1,15 @@
 ## Teaching
 
+### Cemniar
+
+* 2024-25 @ Meiji University (Expected)
+
+  * [ゼミ概要＋身上書フォーマット](https://github.com/gentok/gentok.github.io/raw/master/files/ceminarinfo_and_shinjosho.pdf)
+
 ### Instructor
 
+* **POL311J: 政治過程論** (Fall 2023 @ Meiji Univeristy)
+* **教養演習「政治を測る」** (Fall 2023 @ Meiji Univeristy)
 * **PLS434/534: Text Analysis and Political Communication in the Information Age** (Spring 2023 @ Nazarbayev University)
 * **PLS140: Introduction to Comparative Politics** (Fall 2022 @ Nazarbayev University)
 * **PLSC162/678: Japan and the World** (Fall 2021 @ Yale University)
