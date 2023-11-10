@@ -12,11 +12,11 @@
    2015年3月　早稲田大学大学院政治学研究科政治学コース修士課程　修了 <br>
    2020年6月　カリフォルニア大学デービス校　政治学部博士課程　修了 <br>　
 
-  * 研究関心：国際基督教大学教養学部在籍時から政治学を専攻し、現代政治学、政治心理学、世論研究の分野において研究を行ってきました。特に「民主主義下における市民の意見の代表メカニズム」を巡るテーマに関心を持っています。具体的には、メディアの報道内容報道が政治意見、政治参加に与える影響、政治知識・政治的洗練度の測定方法や決定要因、そして政治行動・意見の形成プロセスなどについて分析を行いました。修士課程では、世論調査の意見設問に対する「わからない回答」や、質問されてから回答するまでにかかる「回答時間」などから政治的洗練の度合いを測定し、政治参加を説明しました。博士課程以降は、低情報下の政治行動を説明する要因、また情報環境・アイデンティティが政治行動・態度の形成に与える影響に注目して研究を行っています。
+  * 研究関心：これまで、現代政治学、政治心理学、世論研究の分野において研究を行ってきました。特に「民主主義下における市民の意見の代表メカニズム」を巡るテーマに関心を持っています。具体的には、メディアの報道内容報道が政治意見、政治参加に与える影響、政治知識・政治的洗練度の測定方法や決定要因、そして政治行動・意見の形成プロセスなどです。統計手法や実験、数理モデルなど、多様なアプローチを用いて多角的に世論・政治行動の姿を明らかにしようとしています。現在は、低情報下の政治行動を説明する要因、また政治情報量・教育や情報環境・アイデンティティが政治行動・態度の形成に与える影響に注目して研究を行っています。
 
 ## 査読付論文
 
-**Kato, Gento** and Fan Lu (Forthcoming) “The Relationship between University Education and Pro-Immigrant Attitudes Varies by Generation: Insights from Japan,” <em>International Journal of Public Opinion Research</em>. {<a href="https://github.com/gentok/gentok.github.io/blob/master/files/v7.2.1x_foreignerjapan_preprint_main.pdf" target="_blank">Accepted Version (08/23/2023)</a>; <a href="https://github.com/gentok/gentok.github.io/blob/master/files/v7.2_foreignerjapan_final_appendix.pdf" target="_blank">Online Appendix</a>; <a href="https://doi.org/10.7910/DVN/LPGU97" target="_blank">Replication Files</a>}
+**Kato, Gento** and Fan Lu (2023) “The Relationship between University Education and Pro-Immigrant Attitudes Varies by Generation: Insights from Japan,” <em>International Journal of Public Opinion Research 35(4)</em>. {<a href="https://academic.oup.com/ijpor/article/35/4/edad027/7331762" target="_blank">Article Link</a>; <a href="https://github.com/gentok/gentok.github.io/blob/master/files/v7.2.1x_foreignerjapan_preprint_main.pdf" target="_blank">Accepted Version (08/23/2023)</a>; <a href="https://github.com/gentok/gentok.github.io/blob/master/files/v7.2_foreignerjapan_final_appendix.pdf" target="_blank">Online Appendix</a>; <a href="https://doi.org/10.7910/DVN/LPGU97" target="_blank">Replication Files</a>}
 
 Annaka, Susumu and  **Gento Kato** (2022) “Can a Constitutional Monarch Influence Democratic Preferences? The Regulation of Public Expression in Japan,” <em>Social Science Quarterly, 103(3)</em>, 699-708. Joint first author. {<a href="https://doi.org/10.1111/ssqu.13152" target="_blank">Article Link</a>; <a href="https://doi.org/10.33774/apsa-2021-fp8q8-v3" target="_blank">Working paper (4/8/2021)</a>; <a href="https://doi.org/10.7910/DVN/OOIRHH" target="_blank">Replication Files</a>}
 
