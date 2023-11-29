@@ -4,7 +4,7 @@
 
 * 2024-25 @ Meiji University (Expected)
 
-  * [ゼミ概要＋身上書フォーマット（第2次）](https://github.com/gentok/gentok.github.io/raw/master/files/seminarinfo_and_shinjosho_niji.pdf)
+  * [ゼミ概要＋身上書フォーマット（第2次）](https://github.com/gentok/gentok.github.io/raw/master/files/shinjosho_format_gento_kato_niji.pdf)
 
 ### Instructor
 
