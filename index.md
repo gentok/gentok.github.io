@@ -4,7 +4,7 @@ Welcome to my website! I am a Senior Assistant Professor at the School of Politi
 
 ## Peer-Reviewed Publications (in English)
 
-**Kato, Gento**, Fan Lu, and Masahisa Endo (Forthcoming) “The Preference-expectation Gap in Support for Female Candidates: Evidence from Japan,” <em>Public Opinion Quarterly</em>. {<!-- <a href="LINK NOT YET ASSIGNED" target="_blank">Article Link</a>; --><a href="https://doi.org/10.7910/DVN/GJWDVM" target="_blank">Replication Files</a>}
+**Kato, Gento**, Fan Lu, and Masahisa Endo (Forthcoming) “The Preference-expectation Gap in Support for Female Candidates: Evidence from Japan,” <em>Public Opinion Quarterly</em>. {<!-- <a href="LINK NOT YET ASSIGNED" target="_blank">Article Link</a>; --><a href="https://github.com/gentok/gentok.github.io/blob/master/files/Preference_vs_Electability_Japan_PAPER_AM.pdf" target="_blank">Accepted Version (05/27/2024)</a>; <a href="https://github.com/gentok/gentok.github.io/blob/master/files/Preference_vs_Electability_Japan_APPENDIX.pdf" target="_blank">Online Appendix</a>; <a href="https://doi.org/10.7910/DVN/GJWDVM" target="_blank">Replication Files</a>}
 
 Adhikari, Bimal and  **Gento Kato** (2024) “Russian Adventurism and Central Asian Leaders' Foreign Policy Rhetoric: Evidence from the UN General Debate Corpus,” <em>Research & Politics</em>, 1-8. Joint first author. (Published online first on May 16, 2024) {<a href="https://doi.org/10.1177/20531680241254190" target="_blank">Article Link</a>; <a href="https://doi.org/10.7910/DVN/X7NAQX" target="_blank">Replication Files</a>}
 
