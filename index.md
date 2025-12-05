@@ -28,9 +28,10 @@ Annaka, Susumu, Junpei Suzuki, and **Gento Kato** (2022) “Universalist Social 
 
 ## Other Publications
 
+**Kato, Gento** (2025) “Mutohaso to Sosharu Nettowaku Kankyo [Independents and Social Network Environments],” In Aiji Tanaka, Masahisa Endo, Norihiro Mimura, and Arata Yamazaki eds. <em>Mutohaso no Kenkyu [Study of Independents in Japan]</em>, Tokyo: Yuhikaku. In Japanese. {<a href="https://www.yuhikaku.co.jp/books/detail/9784641149380" target="_blank">Book Link</a>; <a href="https://github.com/gentok/IndepSocNet/raw/main/Indep_SocNet_v2.pdf" target="_blank">Working paper (4/15/2021)</a>; <a href="https://github.com/gentok/IndepSocNet" target="_blank">Replication Files</a>}
+
 Endo, Masahisa and **Gento Kato** (2022) “Social Values and Mask-wearing Behaviour During the COVID-19 Pandemic in Japan,” In Noriko Suzuki, Xavier Mellet, Susumu Annaka and Masahisa Endo eds. <em>Public Behavioural Responses to Policy Making during the Pandemic: Comparative Perspectives on Mask Wearing Policies</em>, Routledge. {<a href="https://www.routledge.com/Public-Behavioural-Responses-to-Policy-Making-during-the-Pandemic-Comparative/Suzuki-Mellet-Annaka-Endo/p/book/9781032154275" target="_blank">Book Link</a>}
 
-**Kato, Gento** (Forthcoming) “Mutohaso to Sosharu Nettowaku Kankyo [Independents and Social Network Environments],” In Aiji Tanaka, Masahisa Endo, Norihiro Mimura, and Arata Yamazaki eds. <em>Mutohaso no Kenkyu [Study of Independents in Japan] (temporal title)</em>, Tokyo: Yuhikaku. In Japanese. {<a href="https://github.com/gentok/IndepSocNet/raw/main/Indep_SocNet_v2.pdf" target="_blank">Working paper (4/15/2021)</a>; <a href="https://github.com/gentok/IndepSocNet" target="_blank">Replication Files</a>}
 
 ## Working Projects
 
