@@ -46,6 +46,11 @@ Collet, Christian and **Gento Kato** (2014) "Does NHK Make You Smarter (and Supe
 
 Endo, Masahisa and **Gento Kato** (2022) “Social Values and Mask-wearing Behaviour During the COVID-19 Pandemic in Japan,” In Noriko Suzuki, Xavier Mellet, Susumu Annaka and Masahisa Endo eds. <em>Public Behavioural Responses to Policy Making during the Pandemic: Comparative Perspectives on Mask Wearing Policies</em>, Routledge. {<a href="https://www.routledge.com/Public-Behavioural-Responses-to-Policy-Making-during-the-Pandemic-Comparative/Suzuki-Mellet-Annaka-Endo/p/book/9781032154275" target="_blank">Book Link</a>}
 
+## その他
+
+**加藤言人** (近刊予定) “無知な有権者の投票行動にロジックはあるか？フォーマルモデルを用いた投票行動理論研究の可能性,” <em>明治大学社会科学研究所紀要</em>. <!--{<a href="https://doi.org/10.14854/jaes.36.2_151" target="_blank">論文リンク</a>; <a href="https://github.com/gentok/Econ_Ideology" target="_blank">レプリケーションファイル</a>}-->
+
+Michael A. Bailey (2021) <em>Real Stats: Using Econometrics for Political Science and Public Policy</em>, 2nd eds, Oxford University Press. {<a href="https://global.oup.com/ushe/product/real-stats-9780190859497" target="_blank">Book Link</a>; <a href="https://github.com/gentok/IndepSocNet" target="_blank">Support Resources</a>}（**加藤言人**・西川賢監訳 (2026) 『社会科学のための統計分析入門：リサーチにすぐ使える統計テクニック（上）・（下）』, 勁草書房. {<a href="https://www.keisoshobo.co.jp/book/b10153572.html" target="_blank">上巻リンク</a>; <a href="https://www.keisoshobo.co.jp/book/b10153573.html" target="_blank">下巻リンク</a>; <a href="https://github.com/gentok/JpnRealStats" target="_blank">日本語版補助資料</a>}）
 
 
 ## 現在進行中の研究プロジェクト
