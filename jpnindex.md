@@ -87,18 +87,9 @@ Michael A. Bailey (2021) <em>Real Stats: Using Econometrics for Political Scienc
    * Working paper (September 9, 2019) <a href="https://github.com/gentok/UninformedChoice/raw/master/papers/Kato2019loba_v14.pdf" target="_blank">[Available from GitHub]</a>
    * <a href="https://github.com/gentok/UninformedChoice" target="_blank">GitHub Project Repository</a> 
 
- <!-- * **Participate with Uncertainty? What “Don’t Know” Responses and a Response Time Reveal About Political Awareness and Political Participation**
-   * <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2014pawi_150301_Final_fixed.pdf" target="_blank">Working paper</a> (my MA thesis) -->
-
  * **International News Coverage and Foreign Image Building: Agenda Setting, Persuasion, and Framing in the Formation of Public Image toward Foreign States in Japan, 1987-2015**
    * Working paper (November 5, 2017) <a href="https://github.com/gentok/Foreign_Image_News_Project/blob/master/papers/Kato2017inne_171105.pdf" target="_blank">[Available from GitHub]</a>
    * <a href="https://github.com/gentok/Foreign_Image_News_Project" target="_blank">GitHub Project Repository</a>
-
- <!-- * **Political Headlines Project** (with Tzu-ping Liu)
-   * <a href="https://github.com/gentok/Political_Headlines_Project" target="_blank">GitHub Project Repository</a> -->
-
- <!-- * **Information Search and Eye-Tracking** (with Ling Liu)
-   * Working paper (in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/%E5%8A%89%E3%83%BB%E5%8A%A0%E8%97%A4%EF%BC%882015%EF%BC%89150228final.pdf" target="_blank">日本語</a>; in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2016dovo_160609.pdf" target="_blank">English</a>) <br> -->
 
  * **Threatening Event, National Identity and Network Dynamics of Motivated Information Communication: Exploring Japanese Twitter during the Rise of Territorial Disputes, April through October 2012** (with Takanori Fujiwara, Christian Collet, Tetsuro Kobayashi, and Takafumi Suzuki)
    * Working paper (August 11, 2017) <a href="https://www.researchgate.net/profile/Takanori-Fujiwara-3/publication/319112481_Threatening_Event_National_Identity_and_Network_Dynamics_of_Motivated_Information_Communication_Exploring_Japanese_Twitter_during_the_Rise_of_Territorial_Disputes_April_through_October_2012/links/59920ee9aca27289539bb67c/Threatening-Event-National-Identity-and-Network-Dynamics-of-Motivated-Information-Communication-Exploring-Japanese-Twitter-during-the-Rise-of-Territorial-Disputes-April-through-October-2012.pdf" target="_blank">[Available from Researchgate]</a>
