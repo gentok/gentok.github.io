@@ -46,45 +46,66 @@ Collet, Christian and **Gento Kato** (2014) "Does NHK Make You Smarter (and Supe
 
 Endo, Masahisa and **Gento Kato** (2022) “Social Values and Mask-wearing Behaviour During the COVID-19 Pandemic in Japan,” In Noriko Suzuki, Xavier Mellet, Susumu Annaka and Masahisa Endo eds. <em>Public Behavioural Responses to Policy Making during the Pandemic: Comparative Perspectives on Mask Wearing Policies</em>, Routledge. {<a href="https://www.routledge.com/Public-Behavioural-Responses-to-Policy-Making-during-the-Pandemic-Comparative/Suzuki-Mellet-Annaka-Endo/p/book/9781032154275" target="_blank">Book Link</a>}
 
-## その他
+## その他の出版物
 
 **加藤言人** (2026) “無知な有権者の投票行動にロジックはあるか？フォーマルモデルを用いた投票行動理論研究の可能性,” <em>明治大学社会科学研究所紀要</em>. {<a href="https://doi.org/10.60209/issmeiji.64.2_33" target="_blank">論文リンク</a>} <!--; <a href="https://github.com/gentok/Econ_Ideology" target="_blank">レプリケーションファイル</a>}-->
 
 Michael A. Bailey (2021) <em>Real Stats: Using Econometrics for Political Science and Public Policy</em>, 2nd eds, Oxford University Press. {<a href="https://global.oup.com/ushe/product/real-stats-9780190859497" target="_blank">Book Link</a>; <a href="https://github.com/gentok/IndepSocNet" target="_blank">Support Resources</a>}（**加藤言人**・西川賢監訳 (2026) 『社会科学のための統計分析入門：リサーチにすぐ使える統計テクニック（上）・（下）』, 勁草書房. {<a href="https://www.keisoshobo.co.jp/book/b10153572.html" target="_blank">上巻リンク</a>; <a href="https://www.keisoshobo.co.jp/book/b10153573.html" target="_blank">下巻リンク</a>; <a href="https://github.com/gentok/JpnRealStats" target="_blank">日本語版補助資料</a>}）
 
 
-## 現在進行中の研究プロジェクト
+## ワーキングペーパー
+
+ * **The Iron Lady Effect? Sanae Takaichi and Personalistic Voting in the 2026 Japanese House of Representatives Election** (with Masahisa Endo and Fan Lu)
+   * Working paper (June 23, 2026) <a href="https://doi.org/10.33774/apsa-2026-40v86" target="_blank">[Available from APSA Preprints]</a>
+
+ * **The Preference-Expectation Gap and Its Consequences for Candidates from Underrepresented Backgrounds** (with Fan Lu)
+   * Working paper (March 18, 2026) <a href="https://doi.org/10.33774/apsa-2026-c5sfg" target="_blank">[Available from APSA Preprints]</a>
+
+ * **Personal Values or a Democratic Value? Revisiting Public Reactions to the Failure of Civilian Control in Japan** (with Yuma Oshida, Rikuto Oi, Hiroyoshi Shibata, and Shogo Karube)
+   * Working paper (February 8, 2026) <a href="https://www.waseda.jp/fpse/winpec/assets/uploads/2026/02/E2530.pdf" target="_blank">[Available from WINPEC Working Paper Series]</a>
+
+ *  **Household Budget Analogy Revisited: How do Japanese People Respond to State Bankruptcy and Assets?** (with Junpei Suzuki, Susumu Annaka, and Takaharu Saito) 
+    * Working paper (April 8, 2025) <a href="https://doi.org/10.33774/apsa-2024-6r28m-v2" target="_blank">[Available from APSA Preprints]</a>
+
+ * **Public Reactions toward Government-sponsored COVID-19 Information in Japan** (with Susumu Annaka and Masahis Endo)
+   * Working paper (June 27, 2022) <a href="https://www.waseda.jp/fpse/winpec/assets/uploads/2022/07/E2202.pdf" target="_blank">[Available from WINPEC Working Paper Series]</a>
+
+ * **A Formal Model of Shared Identity Appeals** (with Fan Lu)
+   * Working paper (April 1, 2022) <a href="https://doi.org/10.33774/apsa-2022-cxzb0" target="_blank">[Available from APSA Preprints]</a>
 
  * **Towards a General Methodology of Bridging Ideological Spaces** (with Tzu-Ping Liu and Samuel Fuller)
-   * ワーキングペーパー (8/8/2020) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3669591" target="_blank">[Available from SSRN]</a>
-   * <a href="https://github.com/tzuliu/Towards-a-General-Methodology-of-Bridging-Ideological-Spaces" target="_blank">GitHubリポジトリ</a> 
+   * Working paper (August 8, 2020) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3669591" target="_blank">[Available from SSRN]</a>
+   * <a href="https://github.com/tzuliu/Towards-a-General-Methodology-of-Bridging-Ideological-Spaces" target="_blank">GitHub Project Repository</a> 
 
- * **Socioeconomic Inequality and COVID-19 Prevalence Across Municipalities in Catalonia, Spain** (with Ryohei Mogi and Susumu Annaka)
-    * ワーキングペーパー (5/20/2020) <a href="https://osf.io/preprints/socarxiv/5jgzy?fbclid=IwAR2hudjuz9PBBPm-JxZeX3_2T3q3Qyb5bFtAHx93GWk6Gzr4nfayRBuhxzI" target="_blank">[Available from SocArXiv]</a>
-    * <a href="https://github.com/gentok/covid19spain" target="_blank">GitHubリポジトリ</a> 
+ * **Socioeconomic Inequality and COVID-19 Prevalence Across Municipalities in Catalonia, Spain** (with Ryohei Mogi and Susumu Annaka) 
+   * Working paper (May 20, 2020) <a href="https://osf.io/preprints/socarxiv/5jgzy?fbclid=IwAR2hudjuz9PBBPm-JxZeX3_2T3q3Qyb5bFtAHx93GWk6Gzr4nfayRBuhxzI" target="_blank">[Available from SocArXiv]</a>
+   * <a href="https://github.com/gentok/covid19spain" target="_blank">GitHub Project Repository</a>
 
-<!-- * **In Japan, University Education Does Not Increase Support for Immigrant Integration** (with Fan Lu) * Working paper (2/8/2021) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3607550" target="_blank">[Available from SSRN]</a> * <a href="https://github.com/gentok/ForeignerJapan" target="_blank">GitHub Project Repository</a>  -->
+<!-- * **In Japan, University Education Does Not Increase Support for Immigrant Integration** (with Fan Lu) * Working paper (2/8/2021) <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3607550" target="_blank">[Available from SSRN]</a> * <a href="https://github.com/gentok/ForeignerJapan" target="_blank">GitHub Project Repository</a> -->
 
  * **Local Bandwagoning and National Balancing: How Uninformed Voters Respond to the Partisan Environment**
-   * <a href="https://github.com/gentok/UninformedChoice/raw/master/papers/Kato2019loba_v14.pdf" target="_blank">ワーキングペーパー (9/9/2019)</a>
-   * <a href="https://github.com/gentok/UninformedChoice" target="_blank">GitHubリポジトリ</a> 
+   * Working paper (September 9, 2019) <a href="https://github.com/gentok/UninformedChoice/raw/master/papers/Kato2019loba_v14.pdf" target="_blank">[Available from GitHub]</a>
+   * <a href="https://github.com/gentok/UninformedChoice" target="_blank">GitHub Project Repository</a> 
 
- * **Participate with Uncertainty? What “Don’t Know” Responses and a Response Time Reveal About Political Awareness and Political Participation**
-   * <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2014pawi_150301_Final_fixed.pdf" target="_blank">ワーキングペーパー</a> (修士論文)
+ <!-- * **Participate with Uncertainty? What “Don’t Know” Responses and a Response Time Reveal About Political Awareness and Political Participation**
+   * <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2014pawi_150301_Final_fixed.pdf" target="_blank">Working paper</a> (my MA thesis) -->
 
- * **International News and the Perception of Foreign States**
-   * <a href="https://github.com/gentok/Foreign_Image_News_Project/blob/master/papers/Kato2017inne_171105.pdf" target="_blank">ワーキングペーパー</a>
-   * <a href="https://github.com/gentok/Foreign_Image_News_Project" target="_blank">GitHubリポジトリ</a>
-    
- * **Political Headlines Project** (with Tzu-ping Liu)
-   * <a href="https://github.com/gentok/Political_Headlines_Project" target="_blank">GitHubリポジトリ</a>
+ * **International News Coverage and Foreign Image Building: Agenda Setting, Persuasion, and Framing in the Formation of Public Image toward Foreign States in Japan, 1987-2015**
+   * Working paper (November 5, 2017) <a href="https://github.com/gentok/Foreign_Image_News_Project/blob/master/papers/Kato2017inne_171105.pdf" target="_blank">[Available from GitHub]</a>
+   * <a href="https://github.com/gentok/Foreign_Image_News_Project" target="_blank">GitHub Project Repository</a>
 
- * **情報探索とアイトラッキング** (with 劉凌)
-   * Working papers (in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/%E5%8A%89%E3%83%BB%E5%8A%A0%E8%97%A4%EF%BC%882015%EF%BC%89150228final.pdf" target="_blank">日本語</a>; in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2016dovo_160609.pdf" target="_blank">English</a>) <br>
+ <!-- * **Political Headlines Project** (with Tzu-ping Liu)
+   * <a href="https://github.com/gentok/Political_Headlines_Project" target="_blank">GitHub Project Repository</a> -->
 
- * **Motivated Reasoning and Information Processing Network** (with Takanori Fujiwara, Christian Collet, Tetsuro Kobayashi, and Takafumi Suzuki)
-   *  <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Motivation_and_InfoNet_170811_apsaFinal.pdf" target="_blank">ワーキングペーパー (8/11/2017)</a>
-   *  <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Motivation_and_InfoNet_PT170831handout.pdf" target="_blank">研究発表スライド (8/31/2017)</a>
+ <!-- * **Information Search and Eye-Tracking** (with Ling Liu)
+   * Working paper (in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/%E5%8A%89%E3%83%BB%E5%8A%A0%E8%97%A4%EF%BC%882015%EF%BC%89150228final.pdf" target="_blank">日本語</a>; in <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Kato2016dovo_160609.pdf" target="_blank">English</a>) <br> -->
+
+ * **Threatening Event, National Identity and Network Dynamics of Motivated Information Communication: Exploring Japanese Twitter during the Rise of Territorial Disputes, April through October 2012** (with Takanori Fujiwara, Christian Collet, Tetsuro Kobayashi, and Takafumi Suzuki)
+   * Working paper (August 11, 2017) <a href="https://www.researchgate.net/profile/Takanori-Fujiwara-3/publication/319112481_Threatening_Event_National_Identity_and_Network_Dynamics_of_Motivated_Information_Communication_Exploring_Japanese_Twitter_during_the_Rise_of_Territorial_Disputes_April_through_October_2012/links/59920ee9aca27289539bb67c/Threatening-Event-National-Identity-and-Network-Dynamics-of-Motivated-Information-Communication-Exploring-Japanese-Twitter-during-the-Rise-of-Territorial-Disputes-April-through-October-2012.pdf" target="_blank">[Available from Researchgate]</a>
+   *  <a href="https://github.com/gentok/gentok.github.io/raw/master/files/Motivation_and_InfoNet_PT170831handout.pdf" target="_blank">Presentation slide (August 31, 2017)</a>
+
+ * **政治情報への評価・記憶に対する接触時間の効果：先有態度と情報内容の一致・不一致が果たす役割に関する一考察** (with 劉凌)
+   * ワーキングペーパー（2017年3月） <a href="https://www.waseda.jp/fpse/winpec/assets/uploads/2014/05/No.J1611_ryuryo_kato.pdf" target="_blank">[Available from WINPEC Working Paper Series]</a> <br>
 
 ## 方法論メモ
 
