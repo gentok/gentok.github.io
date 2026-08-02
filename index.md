@@ -24,7 +24,7 @@ Collet, Christian and **Gento Kato** (2014) "Does NHK Make You Smarter (and Supe
 
 ## Peer-Reviewed Publications (in Japanese)
 
-**Kato, Gento**, Kazuyoshi Inagaki, Takato Iio, and Shunsuke Taguchi (Forthcming) “Does a Mismatch Between Appearance and Policy Hinder Candidate Choice? Experimental Evidence on the Effect of Age Cues in Candidates' Appearance on Issue Voting,” <em>Japanese Journal of Electoral Studies (Senkyo Kenkyu)</em>. {<!--<a href="https://doi.org/10.14854/jaes.36.2_151" target="_blank">Article Link</a>; --><a href="https://github.com/gentokatozemi/ZemiRepFiles/tree/master/GP/2024-GP3-GaikenFuicchi" target="_blank">Replication Files</a>}
+**Kato, Gento**, Kazuyoshi Inagaki, Takato Iio, and Shunsuke Taguchi (2026) “Does a Mismatch Between Appearance and Policy Hinder Candidate Choice? Experimental Evidence on the Effect of Age Cues in Candidates' Appearance on Issue Voting,” <em>Japanese Journal of Electoral Studies (Senkyo Kenkyu), 42(1)</em>, 88-102. {<!--<a href="https://doi.org/10.14854/jaes.36.2_151" target="_blank">Article Link</a>; --><a href="https://github.com/gentokatozemi/ZemiRepFiles/tree/master/GP/2024-GP3-GaikenFuicchi" target="_blank">Replication Files</a>}
 
 Annaka, Susumu, Junpei Suzuki, and **Gento Kato** (2022) "Universalist Social Benefit and Regressive Taxation as Determinants of Welfare State Support: Survey Experiment on Consumption Tax Hike in Japan," <em>The Annals of Japanese Political Science Association (Nenpo Seijigaku), 2022-I</em>, 212-235. In Japanese. {<a href="https://doi.org/10.7218/nenpouseijigaku.73.1_212" target="_blank">Article Link</a>; <a href="https://doi.org/10.7910/DVN/F6PSMI" target="_blank">Replication Files</a>}
 

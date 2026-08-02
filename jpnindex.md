@@ -16,7 +16,7 @@
 
 ## 査読付論文
 
-**加藤言人**・稲垣和由・飯尾天翔・田口俊介 (近刊予定) “外見と政策の不一致は候補者選択を阻害するか？候補者の外見年齢が争点投票に与える影響に関するサーベイ実験,” <em>選挙研究</em>. {<!--<a href="https://doi.org/10.14854/jaes.36.2_151" target="_blank">論文リンク</a>; --><a href="https://github.com/gentokatozemi/ZemiRepFiles/tree/master/GP/2024-GP3-GaikenFuicchi" target="_blank">レプリケーションファイル</a>}
+**加藤言人**・稲垣和由・飯尾天翔・田口俊介 (2026) “外見と政策の不一致は候補者選択を阻害するか？候補者の外見年齢が争点投票に与える影響に関するサーベイ実験,” <em>選挙研究, 42(1)</em>, 88-102. {<!--<a href="https://doi.org/10.14854/jaes.36.2_151" target="_blank">論文リンク</a>; --><a href="https://github.com/gentokatozemi/ZemiRepFiles/tree/master/GP/2024-GP3-GaikenFuicchi" target="_blank">レプリケーションファイル</a>}
 
 Annaka, Susumu, Masaaki Higashijima, and **Gento Kato** (2026) "Government Information and Popular Reactions in Autocracies: An Information Correction Experiment on COVID-19 in Kazakhstan" <em>Political Studies</em>. Joint first author and corresponding author. (Published online first on May 11, 2026) {<a href="https://doi.org/10.1177/00323217261429650" target="_blank">Article Link</a>; <a href="https://doi.org/10.7910/DVN/GQUEJS" target="_blank">Replication Files</a>}
 
