@@ -55,6 +55,9 @@ Michael A. Bailey (2021) <em>Real Stats: Using Econometrics for Political Scienc
 
 ## ワーキングペーパー
 
+ * **Who Speaks, Who Leads: Decomposing Gender Effects in Foreign Policy Rhetoric at the UNGA** (with Bimal Adhikari)
+   * Working paper (June 31, 2026) <a href="https://doi.org/10.33774/apsa-2026-sjnzg" target="_blank">[Available from APSA Preprints]</a>
+
  * **The Iron Lady Effect? Sanae Takaichi and Personalistic Voting in the 2026 Japanese House of Representatives Election** (with Masahisa Endo and Fan Lu)
    * Working paper (June 23, 2026) <a href="https://doi.org/10.33774/apsa-2026-40v86" target="_blank">[Available from APSA Preprints]</a>
 
